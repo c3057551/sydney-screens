@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-18T13:27+10:00",
+ "generated_at": "2026-07-18T13:39+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-18T13:27+10:00",
+   "fetched_at": "2026-07-18T13:39+10:00",
    "films": 436
   },
   {
@@ -117,15 +117,15 @@
    "group": "the odyssey"
   },
   {
-   "title": "Toy Story 5",
+   "title": "Moana",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/toy-story-5",
+   "url": "https://www.ritzcinemas.com.au/movies/moana",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "toy story 5"
+   "group": "moana"
   },
   {
    "title": "An American in Paris",
