@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-18T13:39+10:00",
+ "generated_at": "2026-07-19T04:57+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-18T13:39+10:00",
-   "films": 436
+   "fetched_at": "2026-07-19T04:57+10:00",
+   "films": 432
   },
   {
    "id": "orpheum",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "moana"
-  },
-  {
-   "title": "An American in Paris",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/an-american-in-paris-1951",
-   "poster": "",
-   "rating": "",
-   "year": 1951,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "an american in paris"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/an-american-in-paris-1951/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Ten Years",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/ten-years-2015",
-   "poster": "",
-   "rating": "",
-   "year": 2015,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "ten years"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/ten-years-2015/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "World Cup 2026: World Cup Final",
