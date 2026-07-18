@@ -1,0 +1,355 @@
+{
+ "generated_at": "2026-07-18T04:05",
+ "sources": [
+  {
+   "id": "ritz",
+   "name": "Ritz Randwick",
+   "short": "Ritz",
+   "ok": true,
+   "fetched_at": "2026-07-18T04:05",
+   "films": 1
+  },
+  {
+   "id": "orpheum",
+   "name": "Hayden Orpheum Cremorne",
+   "short": "Orpheum",
+   "ok": true,
+   "fetched_at": "2026-07-18T04:05",
+   "films": 1
+  },
+  {
+   "id": "palace-moore-park",
+   "name": "Palace Moore Park (ex-Verona)",
+   "short": "Palace MP",
+   "ok": true,
+   "fetched_at": "2026-07-18T04:05",
+   "films": 1
+  },
+  {
+   "id": "palace-norton",
+   "name": "Palace Norton St Leichhardt",
+   "short": "Norton St",
+   "ok": true,
+   "fetched_at": "2026-07-18T04:05",
+   "films": 1
+  },
+  {
+   "id": "palace-central",
+   "name": "Palace Central Chippendale",
+   "short": "Central",
+   "ok": true,
+   "fetched_at": "2026-07-18T04:05",
+   "films": 1
+  },
+  {
+   "id": "chauvel",
+   "name": "Chauvel Cinema Paddington",
+   "short": "Chauvel",
+   "ok": true,
+   "fetched_at": "2026-07-18T04:05",
+   "films": 1
+  },
+  {
+   "id": "dendy-newtown",
+   "name": "Dendy Newtown",
+   "short": "Dendy",
+   "ok": true,
+   "fetched_at": "2026-07-18T04:05",
+   "films": 1
+  },
+  {
+   "id": "golden-age",
+   "name": "Golden Age Cinema & Bar",
+   "short": "Golden Age",
+   "ok": true,
+   "fetched_at": "2026-07-18T04:05",
+   "films": 1
+  },
+  {
+   "id": "event-george",
+   "name": "Event Cinemas George St",
+   "short": "Event Geo St",
+   "ok": true,
+   "fetched_at": "2026-07-18T04:05",
+   "films": 1
+  }
+ ],
+ "films": [
+  {
+   "title": "70mm The Odyssey",
+   "cinema_id": "ritz",
+   "url": "",
+   "poster": "",
+   "rating": "M",
+   "year": null,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-18T12:00",
+     "booking_url": "https://example.com/book",
+     "tags": [
+      "70MM"
+     ]
+    },
+    {
+     "dt": "2026-07-18T15:45",
+     "booking_url": "https://example.com/book",
+     "tags": [
+      "70MM"
+     ]
+    },
+    {
+     "dt": "2026-07-18T19:30",
+     "booking_url": "https://example.com/book",
+     "tags": [
+      "70MM"
+     ]
+    },
+    {
+     "dt": "2026-07-19T12:00",
+     "booking_url": "https://example.com/book",
+     "tags": [
+      "70MM"
+     ]
+    },
+    {
+     "dt": "2026-07-20T19:30",
+     "booking_url": "https://example.com/book",
+     "tags": [
+      "70MM"
+     ]
+    }
+   ],
+   "group": "the odyssey"
+  },
+  {
+   "title": "The Odyssey",
+   "cinema_id": "ritz",
+   "url": "",
+   "poster": "",
+   "rating": "M",
+   "year": null,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-18T13:45",
+     "booking_url": "https://example.com/book",
+     "tags": []
+    },
+    {
+     "dt": "2026-07-18T17:30",
+     "booking_url": "https://example.com/book",
+     "tags": []
+    },
+    {
+     "dt": "2026-07-18T20:30",
+     "booking_url": "https://example.com/book",
+     "tags": []
+    }
+   ],
+   "group": "the odyssey"
+  },
+  {
+   "title": "Come and See",
+   "cinema_id": "ritz",
+   "url": "",
+   "poster": "",
+   "rating": "M",
+   "year": 1985,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-18T20:00",
+     "booking_url": "https://example.com/book",
+     "tags": [
+      "RETRO"
+     ]
+    }
+   ],
+   "group": "come and see"
+  },
+  {
+   "title": "The Philadelphia Story",
+   "cinema_id": "ritz",
+   "url": "",
+   "poster": "",
+   "rating": "PG",
+   "year": 1940,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-18T14:00",
+     "booking_url": "https://example.com/book",
+     "tags": [
+      "MATINEES",
+      "RETRO"
+     ]
+    }
+   ],
+   "group": "the philadelphia story"
+  },
+  {
+   "title": "Matilda",
+   "cinema_id": "ritz",
+   "url": "",
+   "poster": "",
+   "rating": "PG",
+   "year": 1996,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-19T11:00",
+     "booking_url": "https://example.com/book",
+     "tags": [
+      "JUNIOR",
+      "RETRO"
+     ]
+    }
+   ],
+   "group": "matilda"
+  },
+  {
+   "title": "The Invite",
+   "cinema_id": "ritz",
+   "url": "",
+   "poster": "",
+   "rating": "MA15+",
+   "year": null,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-18T18:00",
+     "booking_url": "https://example.com/book",
+     "tags": []
+    },
+    {
+     "dt": "2026-07-18T21:10",
+     "booking_url": "https://example.com/book",
+     "tags": []
+    }
+   ],
+   "group": "the invite"
+  },
+  {
+   "title": "Tuner",
+   "cinema_id": "ritz",
+   "url": "",
+   "poster": "",
+   "rating": "MA15+",
+   "year": null,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-18T19:00",
+     "booking_url": "https://example.com/book",
+     "tags": []
+    }
+   ],
+   "group": "tuner"
+  },
+  {
+   "title": "The Odyssey",
+   "cinema_id": "orpheum",
+   "url": "",
+   "poster": "",
+   "rating": "M",
+   "year": null,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-18T18:45",
+     "booking_url": "https://example.com/book",
+     "tags": []
+    },
+    {
+     "dt": "2026-07-19T14:00",
+     "booking_url": "https://example.com/book",
+     "tags": []
+    }
+   ],
+   "group": "the odyssey"
+  },
+  {
+   "title": "Casablanca",
+   "cinema_id": "orpheum",
+   "url": "",
+   "poster": "",
+   "rating": "PG",
+   "year": 1942,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-21T19:00",
+     "booking_url": "https://example.com/book",
+     "tags": [
+      "RETRO"
+     ]
+    }
+   ],
+   "group": "casablanca"
+  },
+  {
+   "title": "Saving Private Ryan",
+   "cinema_id": "golden-age",
+   "url": "",
+   "poster": "",
+   "rating": "MA15+",
+   "year": 1998,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-24T19:00",
+     "booking_url": "https://example.com/book",
+     "tags": [
+      "35MM"
+     ]
+    }
+   ],
+   "group": "saving private ryan"
+  },
+  {
+   "title": "Sentimental Value",
+   "cinema_id": "palace-moore-park",
+   "url": "",
+   "poster": "",
+   "rating": "M",
+   "year": null,
+   "coming_soon": false,
+   "sessions": [
+    {
+     "dt": "2026-07-18T17:40",
+     "booking_url": "https://example.com/book",
+     "tags": []
+    },
+    {
+     "dt": "2026-07-20T20:10",
+     "booking_url": "https://example.com/book",
+     "tags": []
+    }
+   ],
+   "group": "sentimental value"
+  },
+  {
+   "title": "Lawrence of Arabia",
+   "cinema_id": "event-george",
+   "url": "",
+   "poster": "",
+   "rating": "PG",
+   "year": 1962,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "lawrence of arabia"
+  },
+  {
+   "title": "2001: A Space Odyssey",
+   "cinema_id": "ritz",
+   "url": "",
+   "poster": "",
+   "rating": "G",
+   "year": 1968,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "2001 a space odyssey"
+  }
+ ]
+}
