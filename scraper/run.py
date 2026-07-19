@@ -15,10 +15,12 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import flicks
 import movingstory
+import veezi
 from common import norm_title, now_sydney
 from config import CINEMAS
 
-SCRAPERS = {"movingstory": movingstory.scrape, "flicks": flicks.scrape}
+SCRAPERS = {"movingstory": movingstory.scrape, "flicks": flicks.scrape,
+            "veezi": veezi.scrape}
 OUT = Path(__file__).parent.parent / "docs" / "data" / "films.json"
 
 

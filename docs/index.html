@@ -179,13 +179,15 @@ async function boot(){
   buildRail(); buildChips(); wireSearch(); render(); renderStatus();
 }
 
+// Fixed 7-day calendar spine, always today -> today+6, regardless of what
+// data has loaded. Recomputed from the real clock every page load, so the
+// rail progresses with the calendar on its own.
 function dayList(){
-  const days=[], seen=new Set();
-  for(const f of DATA.films)for(const s of f.sessions)seen.add(s.dt.slice(0,10));
+  const days=[];
   const today=new Date(); today.setHours(0,0,0,0);
-  for(let i=0;i<15;i++){
+  for(let i=0;i<7;i++){
     const d=new Date(today); d.setDate(d.getDate()+i);
-    if(seen.has(iso(d)))days.push(new Date(d));
+    days.push(d);
   }
   return days;
 }
@@ -202,13 +204,13 @@ function buildRail(){
     rail.appendChild(b); return b;
   };
   const days=dayList();
-  days.forEach((d,i)=>mk(fmtDay(d), i===0&&fmtDay(d)==="Today"?"today":iso(d)));
-  if(days.length&&fmtDay(days[0])!=="Today")rail.firstChild.dataset.val=iso(days[0]);
+  days.forEach((d,i)=>mk(fmtDay(d), i===0?"today":iso(d)));
   const sp=document.createElement("span"); sp.className="spacer"; rail.appendChild(sp);
   mk("This week","week"); mk("Next week","nextweek"); mk("Coming soon","soon");
-  const first=rail.querySelector("button");
-  if(first&&![...rail.querySelectorAll("button")].some(b=>b.getAttribute("aria-pressed")==="true")){
-    view.day=first.dataset.val; first.setAttribute("aria-pressed","true");
+  // default selection = Today
+  if(![...rail.querySelectorAll("button")].some(b=>b.getAttribute("aria-pressed")==="true")){
+    view.day="today";
+    rail.querySelector("button").setAttribute("aria-pressed","true");
   }
 }
 

@@ -17,7 +17,7 @@ own site.
    Read and write permissions** → Save. (Lets the scraper commit fresh data.)
 4. Go to the **Actions** tab → *Scrape session times* → **Run workflow**.
    This replaces the bundled sample data with live sessions.
-5. Open `https://c3057551.github.io/sydney-screens/` and add it to
+5. Open `https://<your-username>.github.io/sydney-screens/` and add it to
    your phone's home screen.
 
 From then on it refreshes itself daily at ~4am Sydney time.

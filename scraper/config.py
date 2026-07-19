@@ -21,16 +21,16 @@ CINEMAS = [
         "id": "orpheum",
         "name": "Hayden Orpheum Cremorne",
         "short": "Orpheum",
-        "source": "movingstory",
+        "source": "veezi",
         "base_url": "https://www.orpheum.com.au",
-        "flicks_slug": "hayden-orpheum-picture-palace-cremorne",
+        "veezi_region": "oz",
+        "veezi_token": "r8mwhyjp18cvqve5jnf7456pcr",
     },
     {
         "id": "palace-moore-park",
         "name": "Palace Moore Park (ex-Verona)",
         "short": "Palace MP",
         "source": "flicks",
-        "base_url": "https://www.flicks.com.au/",
         "flicks_slug": "palace-moore-park",
     },
     {
@@ -38,7 +38,6 @@ CINEMAS = [
         "name": "Palace Norton St Leichhardt",
         "short": "Norton St",
         "source": "flicks",
-      "base_url": "https://www.flicks.com.au/",
         "flicks_slug": "palace-cinema-norton-street-leichhardt",
     },
     {
@@ -46,7 +45,6 @@ CINEMAS = [
         "name": "Palace Central Chippendale",
         "short": "Central",
         "source": "flicks",
-      "base_url": "https://www.flicks.com.au/",
         "flicks_slug": "palace-central",
     },
     {
@@ -54,7 +52,6 @@ CINEMAS = [
         "name": "Chauvel Cinema Paddington",
         "short": "Chauvel",
         "source": "flicks",
-      "base_url": "https://www.flicks.com.au/",
         "flicks_slug": "chauvel-cinema-paddington",
     },
     {
@@ -62,7 +59,6 @@ CINEMAS = [
         "name": "Dendy Newtown",
         "short": "Dendy",
         "source": "flicks",
-      "base_url": "https://www.flicks.com.au/",
         "flicks_slug": "dendy-newtown",
     },
     {
@@ -70,7 +66,6 @@ CINEMAS = [
         "name": "Golden Age Cinema & Bar",
         "short": "Golden Age",
         "source": "flicks",
-      "base_url": "https://www.flicks.com.au/",
         "flicks_slug": "golden-age-cinema-and-bar",
     },
     {
@@ -78,7 +73,6 @@ CINEMAS = [
         "name": "Event Cinemas George St",
         "short": "Event Geo St",
         "source": "flicks",
-      "base_url": "https://www.flicks.com.au/",
         "flicks_slug": "event-cinemas-george-st",
     },
 ]
