@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-19T14:30+10:00",
+ "generated_at": "2026-07-20T05:01+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-19T14:29+10:00",
-   "films": 432
+   "fetched_at": "2026-07-20T05:00+10:00",
+   "films": 430
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "toy story 5"
-  },
-  {
-   "title": "World Cup 2026: World Cup Final",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/fifa-world-cup-2026-final",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "world cup 2026 world cup final"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/fifa-world-cup-2026-final/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Dirty Dancing",
