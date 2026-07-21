@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-21T05:40+10:00",
+ "generated_at": "2026-07-22T05:14+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-21T05:39+10:00",
-   "films": 450
+   "fetched_at": "2026-07-22T05:14+10:00",
+   "films": 447
   },
   {
    "id": "orpheum",
@@ -115,61 +115,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
-  },
-  {
-   "title": "Tuner",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tuner",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tuner"
-  },
-  {
-   "title": "SAFF: Don't Let's Go to the Dogs Tonight",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/saff-dont-lets-go-to-the-dogs-tonight",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "saff don t let s go to the dogs tonight"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/saff-dont-lets-go-to-the-dogs-tonight/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Boy and the Heron",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-boy-and-the-heron",
-   "poster": "",
-   "rating": "",
-   "year": 2023,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the boy and the heron"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-boy-and-the-heron/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Colours Of Time",
@@ -4784,6 +4729,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-holiday-2006/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Avengers: Doomsday",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/avengers-doomsday",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "avengers doomsday"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/avengers-doomsday/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
