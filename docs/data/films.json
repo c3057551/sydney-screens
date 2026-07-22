@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-22T05:14+10:00",
+ "generated_at": "2026-07-23T05:09+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-22T05:14+10:00",
-   "films": 447
+   "fetched_at": "2026-07-23T05:08+10:00",
+   "films": 438
   },
   {
    "id": "orpheum",
@@ -126,105 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "colours of time"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/colours-of-time/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "NT Live: Les Liaisons Dangereuses",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/nt-live-les-liaisons-dangereuses",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "nt live les liaisons dangereuses"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/nt-live-les-liaisons-dangereuses/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Penny Lane Is Dead",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/penny-lane-is-dead",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "penny lane is dead"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/penny-lane-is-dead/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Tenor: My Name is Pati",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tenor-my-name-is-pati",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tenor my name is pati"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/tenor-my-name-is-pati/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Wizard of the Kremlin",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-wizard-of-the-kremlin",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the wizard of the kremlin"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-wizard-of-the-kremlin/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm Chinatown",
