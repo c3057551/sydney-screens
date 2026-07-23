@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-23T05:09+10:00",
+ "generated_at": "2026-07-24T05:09+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-23T05:08+10:00",
-   "films": 438
+   "fetched_at": "2026-07-24T05:08+10:00",
+   "films": 429
   },
   {
    "id": "orpheum",
@@ -84,17 +84,6 @@
  ],
  "films": [
   {
-   "title": "The Invite",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the invite"
-  },
-  {
    "title": "70mm The Odyssey",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
@@ -106,6 +95,28 @@
    "group": "the odyssey"
   },
   {
+   "title": "Spider-Man: Brand New Day",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "spider man brand new day"
+  },
+  {
+   "title": "The Invite",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the invite"
+  },
+  {
    "title": "The Odyssey - Digital",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-odyssey-digital",
@@ -115,39 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
-  },
-  {
-   "title": "Colours Of Time",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/colours-of-time",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "colours of time"
-  },
-  {
-   "title": "35mm Chinatown",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-chinatown-1974",
-   "poster": "",
-   "rating": "",
-   "year": 1974,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "chinatown"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-chinatown-1974/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "EXHIBITION ON SCREEN: Frida Kahlo",
@@ -324,17 +302,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Spider-Man: Brand New Day",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "spider man brand new day"
   },
   {
    "title": "Add Reminder",
@@ -1052,28 +1019,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Insidious: Out of the Further",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/insidious-out-of-the-further",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "insidious out of the further"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/insidious-out-of-the-further/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Sentient",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/sentient",
@@ -1110,28 +1055,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/spa-weekend/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Chronology of Water",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-chronology-of-water",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the chronology of water"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-chronology-of-water/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1418,28 +1341,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-dog-stars/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Party's Over!",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-partys-over",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the party s over"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-partys-over/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
