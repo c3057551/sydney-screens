@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-24T05:09+10:00",
+ "generated_at": "2026-07-25T05:19+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-24T05:08+10:00",
-   "films": 429
+   "fetched_at": "2026-07-25T05:19+10:00",
+   "films": 421
   },
   {
    "id": "orpheum",
@@ -84,17 +84,6 @@
  ],
  "films": [
   {
-   "title": "70mm The Odyssey",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the odyssey"
-  },
-  {
    "title": "Spider-Man: Brand New Day",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
@@ -104,6 +93,17 @@
    "coming_soon": true,
    "sessions": [],
    "group": "spider man brand new day"
+  },
+  {
+   "title": "70mm The Odyssey",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the odyssey"
   },
   {
    "title": "The Invite",
@@ -126,94 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
-  },
-  {
-   "title": "EXHIBITION ON SCREEN: Frida Kahlo",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-frida-kahlo",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "exhibition on screen frida kahlo"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/exhibition-on-screen-frida-kahlo/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Rebel Without a Cause",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/rebel-without-a-cause-1955",
-   "poster": "",
-   "rating": "",
-   "year": 1955,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "rebel without a cause"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/rebel-without-a-cause-1955/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Up",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/up-2009",
-   "poster": "",
-   "rating": "",
-   "year": 2009,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "up"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/up-2009/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Welcome to the Dollhouse",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/welcome-to-the-dollhouse-1996",
-   "poster": "",
-   "rating": "",
-   "year": 1996,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "welcome to the dollhouse"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/welcome-to-the-dollhouse-1996/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "West Side Story",
