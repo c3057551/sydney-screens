@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-25T05:19+10:00",
+ "generated_at": "2026-07-26T05:02+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-25T05:19+10:00",
-   "films": 421
+   "fetched_at": "2026-07-26T05:01+10:00",
+   "films": 419
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
-  },
-  {
-   "title": "West Side Story",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/west-side-story-1961",
-   "poster": "",
-   "rating": "",
-   "year": 1961,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "west side story"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/west-side-story-1961/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "The Princess Bride",
