@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-27T05:05+10:00",
+ "generated_at": "2026-07-28T05:21+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-27T05:04+10:00",
-   "films": 419
+   "fetched_at": "2026-07-28T05:20+10:00",
+   "films": 417
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "70mm The Odyssey",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the odyssey"
-  },
-  {
    "title": "The Invite",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-invite",
@@ -117,6 +106,17 @@
    "group": "the invite"
   },
   {
+   "title": "70mm The Odyssey",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the odyssey"
+  },
+  {
    "title": "The Odyssey - Digital",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-odyssey-digital",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
-  },
-  {
-   "title": "The Princess Bride",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-princess-bride-1987",
-   "poster": "",
-   "rating": "",
-   "year": 1987,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the princess bride"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-princess-bride-1987/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Kiki's Delivery Service",
