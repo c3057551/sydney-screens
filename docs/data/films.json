@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-28T05:21+10:00",
+ "generated_at": "2026-07-29T05:17+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-28T05:20+10:00",
-   "films": 417
+   "fetched_at": "2026-07-29T05:17+10:00",
+   "films": 415
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
-  },
-  {
-   "title": "Kiki's Delivery Service",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/kikis-delivery-service-1989",
-   "poster": "",
-   "rating": "",
-   "year": 1989,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "kiki s delivery service"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/kikis-delivery-service-1989/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Bon Voyage, Marie",
