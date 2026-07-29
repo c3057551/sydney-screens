@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-29T05:17+10:00",
+ "generated_at": "2026-07-30T05:08+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-29T05:17+10:00",
-   "films": 415
+   "fetched_at": "2026-07-30T05:08+10:00",
+   "films": 418
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "The Invite",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the invite"
-  },
-  {
    "title": "70mm The Odyssey",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
@@ -117,6 +106,17 @@
    "group": "the odyssey"
   },
   {
+   "title": "The Invite",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the invite"
+  },
+  {
    "title": "The Odyssey - Digital",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-odyssey-digital",
@@ -126,39 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
-  },
-  {
-   "title": "Bon Voyage, Marie",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/bon-voyage-marie",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "bon voyage marie"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/bon-voyage-marie/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/spider-man-brand-new-day/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm Safe",
@@ -1327,6 +1294,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Mockbuster",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/mockbuster",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "mockbuster"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/mockbuster/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "You've Got Mail",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/youve-got-mail-1998",
@@ -2155,6 +2144,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/chitty-chitty-bang-bang-1968/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Hunger Games Marathon",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/hunger-games-marathon",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "hunger games marathon"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/hunger-games-marathon/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3937,6 +3948,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/42nd-street-1933/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Amelie",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/amelie-2001",
+   "poster": "",
+   "rating": "",
+   "year": 2001,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "amelie"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/amelie-2001/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
