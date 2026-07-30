@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-30T05:08+10:00",
+ "generated_at": "2026-07-31T05:19+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-07-30T05:08+10:00",
-   "films": 418
+   "fetched_at": "2026-07-31T05:19+10:00",
+   "films": 442
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
-  },
-  {
-   "title": "35mm Safe",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-safe-1995",
-   "poster": "",
-   "rating": "",
-   "year": 1995,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "safe"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-safe-1995/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Aladdin",
@@ -1162,6 +1140,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Tina Arena: Unravel Me",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/tina-arena-unravel-me",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "tina arena unravel me"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/tina-arena-unravel-me/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "35mm American Psycho",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/35mm-american-psycho-2000",
@@ -1528,6 +1528,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/dekalog-4-6-1988/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "EXHIBITION ON SCREEN: James McNeill Whistler",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-james-mcneill-whistler",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "exhibition on screen james mcneill whistler"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/exhibition-on-screen-james-mcneill-whistler/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3472,6 +3494,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Godzilla Minus Zero",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/godzilla-minus-zero",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "godzilla minus zero"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/godzilla-minus-zero/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "La Bola Negra",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
@@ -3662,6 +3706,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/fatherland/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "I Love Boosters",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/i-love-boosters",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "i love boosters"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/i-love-boosters/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -4044,6 +4110,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Wicker",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/wicker",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "wicker"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/wicker/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "35mm Crouching Tiger, Hidden Dragon",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/35mm-crouching-tiger-hidden-dragon-2000",
@@ -4374,6 +4462,28 @@
    "group": "add reminder"
   },
   {
+   "title": "The Angry Birds 3",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-angry-birds-3",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the angry birds 3"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-angry-birds-3/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "The Muppet Christmas Carol",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-muppet-christmas-carol-1992",
@@ -4550,6 +4660,72 @@
    "group": "add reminder"
   },
   {
+   "title": "A Talent for Murder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/a-talent-for-murder",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "a talent for murder"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/a-talent-for-murder/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Jumanji: Open World",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jumanji-open-world",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jumanji open world"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/jumanji-open-world/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Debut",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-debut",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the debut"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-debut/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "The Cat in the Hat",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-cat-in-the-hat",
@@ -4616,6 +4792,50 @@
    "group": "add reminder"
   },
   {
+   "title": "EXHIBITION ON SCREEN: Renoir & Love",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-renoir-love",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "exhibition on screen renoir love"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/exhibition-on-screen-renoir-love/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Fjord",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/fjord",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "fjord"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/fjord/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Ice Age: Boiling Point",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/ice-age-boiling-point",
@@ -4638,6 +4858,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Mr. Irrelevant",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/mr-irrelevant",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "mr irrelevant"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/mr-irrelevant/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Gatto",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/gatto",
@@ -4652,6 +4894,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/gatto/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Thomas Crown Affair",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-thomas-crown-affair",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the thomas crown affair"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-thomas-crown-affair/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
