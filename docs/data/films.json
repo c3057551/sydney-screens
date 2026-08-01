@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-01T05:18+10:00",
+ "generated_at": "2026-08-02T05:02+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-01T05:18+10:00",
-   "films": 436
+   "fetched_at": "2026-08-02T05:02+10:00",
+   "films": 434
   },
   {
    "id": "orpheum",
@@ -84,17 +84,6 @@
  ],
  "films": [
   {
-   "title": "Spider-Man: Brand New Day",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "spider man brand new day"
-  },
-  {
    "title": "70mm The Odyssey",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
@@ -104,6 +93,17 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
+  },
+  {
+   "title": "Spider-Man: Brand New Day",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "spider man brand new day"
   },
   {
    "title": "The Invite",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
-  },
-  {
-   "title": "The Blues Brothers",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-blues-brothers-1980",
-   "poster": "",
-   "rating": "",
-   "year": 1980,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the blues brothers"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-blues-brothers-1980/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Reality Bites",
