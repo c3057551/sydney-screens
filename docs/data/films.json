@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-03T05:04+10:00",
+ "generated_at": "2026-08-04T05:25+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-03T05:03+10:00",
-   "films": 434
+   "fetched_at": "2026-08-04T05:25+10:00",
+   "films": 431
   },
   {
    "id": "orpheum",
@@ -84,17 +84,6 @@
  ],
  "films": [
   {
-   "title": "70mm The Odyssey",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the odyssey"
-  },
-  {
    "title": "Spider-Man: Brand New Day",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
@@ -104,6 +93,17 @@
    "coming_soon": true,
    "sessions": [],
    "group": "spider man brand new day"
+  },
+  {
+   "title": "70mm The Odyssey",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the odyssey"
   },
   {
    "title": "The Invite",
@@ -117,37 +117,15 @@
    "group": "the invite"
   },
   {
-   "title": "The Odyssey - Digital",
+   "title": "Teenage Sex and Death at Camp Miasma",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-odyssey-digital",
+   "url": "https://www.ritzcinemas.com.au/movies/teenage-sex-and-death-at-camp-miasma",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the odyssey"
-  },
-  {
-   "title": "Reality Bites",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/reality-bites-1994",
-   "poster": "",
-   "rating": "",
-   "year": 1994,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "reality bites"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/reality-bites-1994/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "teenage sex and death at camp miasma"
   },
   {
    "title": "Holy Days",
@@ -170,39 +148,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Kiri and Lou Go Raaa!",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/kiri-and-lou-go-raaa",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "kiri and lou go raaa"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/kiri-and-lou-go-raaa/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Teenage Sex and Death at Camp Miasma",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/teenage-sex-and-death-at-camp-miasma",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "teenage sex and death at camp miasma"
   },
   {
    "title": "Add Reminder",
@@ -296,6 +241,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/fallen-angels-1995/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Kiri and Lou Go Raaa!",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/kiri-and-lou-go-raaa",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "kiri and lou go raaa"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/kiri-and-lou-go-raaa/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
