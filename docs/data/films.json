@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-04T05:25+10:00",
+ "generated_at": "2026-08-05T05:26+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-04T05:25+10:00",
+   "fetched_at": "2026-08-05T05:25+10:00",
    "films": 431
   },
   {
@@ -1415,6 +1415,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Don't Look Back In Anger",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/dont-look-back-in-anger",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "don t look back in anger"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/dont-look-back-in-anger/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "EXHIBITION ON SCREEN: James McNeill Whistler",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-james-mcneill-whistler",
@@ -1517,28 +1539,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/practical-magic-2/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Don't Look Back In Anger",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/dont-look-back-in-anger",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "don t look back in anger"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/dont-look-back-in-anger/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
