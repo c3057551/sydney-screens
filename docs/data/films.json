@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-05T05:26+10:00",
+ "generated_at": "2026-08-06T05:24+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-05T05:25+10:00",
-   "films": 431
+   "fetched_at": "2026-08-06T05:23+10:00",
+   "films": 428
   },
   {
    "id": "orpheum",
@@ -126,39 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "teenage sex and death at camp miasma"
-  },
-  {
-   "title": "Holy Days",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/holy-days",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "holy days"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/holy-days/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/teenage-sex-and-death-at-camp-miasma/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm Nashville",
