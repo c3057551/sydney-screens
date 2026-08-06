@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-06T05:24+10:00",
+ "generated_at": "2026-08-07T09:55+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-06T05:23+10:00",
-   "films": 428
+   "fetched_at": "2026-08-07T09:54+10:00",
+   "films": 429
   },
   {
    "id": "orpheum",
@@ -117,37 +117,15 @@
    "group": "the invite"
   },
   {
-   "title": "Teenage Sex and Death at Camp Miasma",
+   "title": "The End of Oak Street",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/teenage-sex-and-death-at-camp-miasma",
+   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "teenage sex and death at camp miasma"
-  },
-  {
-   "title": "35mm Nashville",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-nashville-1975",
-   "poster": "",
-   "rating": "",
-   "year": 1975,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "nashville"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-nashville-1975/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "the end of oak street"
   },
   {
    "title": "Charade",
@@ -412,17 +390,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "The End of Oak Street",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the end of oak street"
   },
   {
    "title": "Add Reminder",
@@ -2922,6 +2889,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Fallen Angels by No\u00ebl Coward",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/fallen-angels-by-noel-coward",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "fallen angels by noel coward"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/fallen-angels-by-noel-coward/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Klara and the Sun",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/klara-and-the-sun",
@@ -4102,6 +4091,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/four-weddings-and-a-funeral-1994/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Behemoth!",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/behemoth",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "behemoth"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/behemoth/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
