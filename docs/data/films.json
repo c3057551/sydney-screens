@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-07T09:55+10:00",
+ "generated_at": "2026-08-08T04:49+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-07T09:54+10:00",
-   "films": 429
+   "fetched_at": "2026-08-08T04:49+10:00",
+   "films": 419
   },
   {
    "id": "orpheum",
@@ -106,17 +106,6 @@
    "group": "the odyssey"
   },
   {
-   "title": "The Invite",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the invite"
-  },
-  {
    "title": "The End of Oak Street",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
@@ -128,114 +117,15 @@
    "group": "the end of oak street"
   },
   {
-   "title": "Charade",
+   "title": "The Invite",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/charade-1963",
-   "poster": "",
-   "rating": "",
-   "year": 1963,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "charade"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/charade-1963/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Cities of Tomorrow",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/cities-of-tomorrow",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "cities of tomorrow"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/cities-of-tomorrow/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Fallen Angels",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/fallen-angels-1995",
-   "poster": "",
-   "rating": "",
-   "year": 1995,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "fallen angels"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/fallen-angels-1995/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Kiri and Lou Go Raaa!",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/kiri-and-lou-go-raaa",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "kiri and lou go raaa"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/kiri-and-lou-go-raaa/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Sandlot",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-sandlot-1993",
-   "poster": "",
-   "rating": "",
-   "year": 1993,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the sandlot"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-sandlot-1993/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "the invite"
   },
   {
    "title": "Gentlemen Prefer Blondes",
