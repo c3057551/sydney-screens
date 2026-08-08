@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-08T04:49+10:00",
+ "generated_at": "2026-08-09T04:31+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-08T04:49+10:00",
-   "films": 419
+   "fetched_at": "2026-08-09T04:31+10:00",
+   "films": 416
   },
   {
    "id": "orpheum",
@@ -117,37 +117,15 @@
    "group": "the end of oak street"
   },
   {
-   "title": "The Invite",
+   "title": "Tony",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
+   "url": "https://www.ritzcinemas.com.au/movies/tony",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the invite"
-  },
-  {
-   "title": "Gentlemen Prefer Blondes",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/gentlemen-prefer-blondes-1953",
-   "poster": "",
-   "rating": "",
-   "year": 1953,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "gentlemen prefer blondes"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/gentlemen-prefer-blondes-1953/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "tony"
   },
   {
    "title": "But I'm a Cheerleader",
@@ -577,17 +555,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Tony",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tony",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tony"
   },
   {
    "title": "Add Reminder",
