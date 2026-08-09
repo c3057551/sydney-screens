@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-09T04:31+10:00",
+ "generated_at": "2026-08-10T04:34+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-09T04:31+10:00",
+   "fetched_at": "2026-08-10T04:33+10:00",
    "films": 416
   },
   {
@@ -84,15 +84,15 @@
  ],
  "films": [
   {
-   "title": "Spider-Man: Brand New Day",
+   "title": "The End of Oak Street",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
+   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "spider man brand new day"
+   "group": "the end of oak street"
   },
   {
    "title": "70mm The Odyssey",
@@ -106,15 +106,15 @@
    "group": "the odyssey"
   },
   {
-   "title": "The End of Oak Street",
+   "title": "Spider-Man: Brand New Day",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
+   "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the end of oak street"
+   "group": "spider man brand new day"
   },
   {
    "title": "Tony",
