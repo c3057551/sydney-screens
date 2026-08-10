@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-10T04:34+10:00",
+ "generated_at": "2026-08-11T04:51+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-10T04:33+10:00",
-   "films": 416
+   "fetched_at": "2026-08-11T04:51+10:00",
+   "films": 415
   },
   {
    "id": "orpheum",
@@ -84,15 +84,26 @@
  ],
  "films": [
   {
-   "title": "The End of Oak Street",
+   "title": "Spider-Man: Brand New Day",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
+   "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the end of oak street"
+   "group": "spider man brand new day"
+  },
+  {
+   "title": "The Invite",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the invite"
   },
   {
    "title": "70mm The Odyssey",
@@ -106,48 +117,15 @@
    "group": "the odyssey"
   },
   {
-   "title": "Spider-Man: Brand New Day",
+   "title": "The End of Oak Street",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
+   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "spider man brand new day"
-  },
-  {
-   "title": "Tony",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tony",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tony"
-  },
-  {
-   "title": "But I'm a Cheerleader",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/but-im-a-cheerleader-2000",
-   "poster": "",
-   "rating": "",
-   "year": 2000,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "but i m a cheerleader"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/but-im-a-cheerleader-2000/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "the end of oak street"
   },
   {
    "title": "Gutsy Girls Adventure Film Tour 2026",
@@ -555,6 +533,17 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
+  },
+  {
+   "title": "Tony",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/tony",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "tony"
   },
   {
    "title": "Add Reminder",
