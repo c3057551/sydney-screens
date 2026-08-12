@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-12T04:57+10:00",
+ "generated_at": "2026-08-13T04:56+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-12T04:56+10:00",
-   "films": 415
+   "fetched_at": "2026-08-13T04:56+10:00",
+   "films": 404
   },
   {
    "id": "orpheum",
@@ -95,15 +95,15 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "The Invite",
+   "title": "The End of Oak Street",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
+   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the invite"
+   "group": "the end of oak street"
   },
   {
    "title": "70mm The Odyssey",
@@ -117,136 +117,15 @@
    "group": "the odyssey"
   },
   {
-   "title": "The End of Oak Street",
+   "title": "The Invite",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
+   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the end of oak street"
-  },
-  {
-   "title": "Camera Buff",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/camera-buff-1979",
-   "poster": "",
-   "rating": "",
-   "year": 1979,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "camera buff"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/camera-buff-1979/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "CatVideoFest 2026",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/catvideofest-2026",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "catvideofest 2026"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/catvideofest-2026/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "One Night Only",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/one-night-only",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "one night only"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/one-night-only/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Stop! That! Train!",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/stop-that-train",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "stop that train"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/stop-that-train/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-end-of-oak-street/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Tom & Jerry: Forbidden Compass",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tom-jerry-forbidden-compass",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tom jerry forbidden compass"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/tom-jerry-forbidden-compass/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "the invite"
   },
   {
    "title": "35mm Drive",
@@ -439,6 +318,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/blind-chance-1981/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Insidious: Out of the Further",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/insidious-out-of-the-further",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "insidious out of the further"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/insidious-out-of-the-further/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1231,28 +1132,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/hope/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Kayara",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/kayara",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "kayara"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/kayara/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
