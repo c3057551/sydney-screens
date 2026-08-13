@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-13T04:56+10:00",
+ "generated_at": "2026-08-14T04:57+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-13T04:56+10:00",
-   "films": 404
+   "fetched_at": "2026-08-14T04:56+10:00",
+   "films": 402
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "The End of Oak Street",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the end of oak street"
-  },
-  {
    "title": "70mm The Odyssey",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
@@ -117,6 +106,17 @@
    "group": "the odyssey"
   },
   {
+   "title": "The End of Oak Street",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the end of oak street"
+  },
+  {
    "title": "The Invite",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-invite",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the invite"
-  },
-  {
-   "title": "35mm Drive",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-drive-2011",
-   "poster": "",
-   "rating": "",
-   "year": 2011,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "drive"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-drive-2011/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Double Indemnity",
@@ -2306,28 +2284,6 @@
    "group": "add reminder"
   },
   {
-   "title": "De Gaulle: Libert\u00e9",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/de-gaulle-liberte",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "de gaulle liberte"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/de-gaulle-liberte/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Sense and Sensibility",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
@@ -3098,6 +3054,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Wicker",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/wicker",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "wicker"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/wicker/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Wild Horse Nine",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/wild-horse-nine",
@@ -3450,6 +3428,28 @@
    "group": "add reminder"
   },
   {
+   "title": "De Gaulle: Libert\u00e9",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/de-gaulle-liberte",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "de gaulle liberte"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/de-gaulle-liberte/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "The Hunger Games: Sunrise on the Reaping",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
@@ -3662,28 +3662,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/giant-the-play/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Wicker",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wicker",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "wicker"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/wicker/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
