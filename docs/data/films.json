@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-14T04:57+10:00",
+ "generated_at": "2026-08-15T04:47+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-14T04:56+10:00",
-   "films": 402
+   "fetched_at": "2026-08-15T04:47+10:00",
+   "films": 397
   },
   {
    "id": "orpheum",
@@ -106,6 +106,17 @@
    "group": "the odyssey"
   },
   {
+   "title": "Tony",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/tony",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "tony"
+  },
+  {
    "title": "The End of Oak Street",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
@@ -115,83 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the end of oak street"
-  },
-  {
-   "title": "The Invite",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the invite"
-  },
-  {
-   "title": "Double Indemnity",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/double-indemnity-1944",
-   "poster": "",
-   "rating": "",
-   "year": 1944,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "double indemnity"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/double-indemnity-1944/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "La Haine",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/la-haine-1995",
-   "poster": "",
-   "rating": "",
-   "year": 1995,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "la haine"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/la-haine-1995/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Shrek",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/shrek-2001",
-   "poster": "",
-   "rating": "",
-   "year": 2001,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "shrek"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/shrek-2001/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "A Hard Day's Night",
@@ -390,17 +324,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Tony",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tony",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tony"
   },
   {
    "title": "Add Reminder",
@@ -1154,6 +1077,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/practical-magic-2/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-the-ballad-of-songbirds-and-snakes",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the hunger games the ballad of songbirds and snakes"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-hunger-games-the-ballad-of-songbirds-and-snakes/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
