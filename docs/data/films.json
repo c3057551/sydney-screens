@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-15T04:47+10:00",
+ "generated_at": "2026-08-16T04:22+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-15T04:47+10:00",
-   "films": 397
+   "fetched_at": "2026-08-16T04:21+10:00",
+   "films": 391
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "70mm The Odyssey",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the odyssey"
-  },
-  {
    "title": "Tony",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/tony",
@@ -117,6 +106,17 @@
    "group": "tony"
   },
   {
+   "title": "70mm The Odyssey",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the odyssey"
+  },
+  {
    "title": "The End of Oak Street",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
@@ -126,72 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the end of oak street"
-  },
-  {
-   "title": "A Hard Day's Night",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/a-hard-days-night-1964",
-   "poster": "",
-   "rating": "",
-   "year": 1964,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "a hard day s night"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/a-hard-days-night-1964/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Three Castrated Goats",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/three-castrated-goats-2024",
-   "poster": "",
-   "rating": "",
-   "year": 2024,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "three castrated goats"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/three-castrated-goats-2024/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Top Dog Film Festival 2026",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/top-dog-film-festival-2026",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "top dog film festival 2026"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/top-dog-film-festival-2026/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Down with Love",
