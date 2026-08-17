@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-17T04:22+10:00",
+ "generated_at": "2026-08-18T04:32+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-17T04:21+10:00",
-   "films": 391
+   "fetched_at": "2026-08-18T04:32+10:00",
+   "films": 389
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the end of oak street"
-  },
-  {
-   "title": "Down with Love",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/down-with-love-2003",
-   "poster": "",
-   "rating": "",
-   "year": 2003,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "down with love"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/down-with-love-2003/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Blind Chance",
@@ -909,28 +887,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Don't Look Back In Anger",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/dont-look-back-in-anger",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "don t look back in anger"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/dont-look-back-in-anger/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "EXHIBITION ON SCREEN: James McNeill Whistler",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-james-mcneill-whistler",
@@ -967,6 +923,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/hope/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Oasis: Don't Look Back In Anger",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/oasis-dont-look-back-in-anger",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "oasis don t look back in anger"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/oasis-dont-look-back-in-anger/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2163,6 +2141,28 @@
    "group": "add reminder"
   },
   {
+   "title": "La Bola Negra",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "la bola negra"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/la-bola-negra/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Sense and Sensibility",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
@@ -2903,28 +2903,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/godzilla-minus-zero/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "La Bola Negra",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "la bola negra"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/la-bola-negra/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
