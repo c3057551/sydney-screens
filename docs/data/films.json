@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-19T04:31+10:00",
+ "generated_at": "2026-08-20T04:28+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-19T04:31+10:00",
-   "films": 389
+   "fetched_at": "2026-08-20T04:28+10:00",
+   "films": 378
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "70mm The Odyssey",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the odyssey"
-  },
-  {
    "title": "Tony",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/tony",
@@ -117,136 +106,26 @@
    "group": "tony"
   },
   {
-   "title": "The End of Oak Street",
+   "title": "70mm The Odyssey",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
+   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the end of oak street"
+   "group": "the odyssey"
   },
   {
-   "title": "Blind Chance",
+   "title": "One Night Only",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/blind-chance-1981",
-   "poster": "",
-   "rating": "",
-   "year": 1981,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "blind chance"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/blind-chance-1981/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/one-night-only",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Insidious: Out of the Further",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/insidious-out-of-the-further",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "insidious out of the further"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/insidious-out-of-the-further/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Sentient",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/sentient",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "sentient"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/sentient/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Spa Weekend",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/spa-weekend",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "spa weekend"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/spa-weekend/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Rivals of Amziah King",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-rivals-of-amziah-king",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the rivals of amziah king"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-rivals-of-amziah-king/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/tony/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "one night only"
   },
   {
    "title": "35mm Le Cercle Rouge",
