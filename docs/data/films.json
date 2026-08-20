@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-20T04:28+10:00",
+ "generated_at": "2026-08-21T04:33+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-20T04:28+10:00",
-   "films": 378
+   "fetched_at": "2026-08-21T04:32+10:00",
+   "films": 380
   },
   {
    "id": "orpheum",
@@ -84,6 +84,17 @@
  ],
  "films": [
   {
+   "title": "70mm The Odyssey",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the odyssey"
+  },
+  {
    "title": "Spider-Man: Brand New Day",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
@@ -106,17 +117,6 @@
    "group": "tony"
   },
   {
-   "title": "70mm The Odyssey",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the odyssey"
-  },
-  {
    "title": "One Night Only",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/one-night-only",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "one night only"
-  },
-  {
-   "title": "35mm Le Cercle Rouge",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-le-cercle-rouge-1970",
-   "poster": "",
-   "rating": "",
-   "year": 1970,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "le cercle rouge"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-le-cercle-rouge-1970/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Frozen",
@@ -2240,6 +2218,28 @@
    "group": "add reminder"
   },
   {
+   "title": "JIFF: Cancelled",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-cancelled",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jiff cancelled"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/jiff-cancelled/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/sweeney-todd-the-demon-barber-of-fleet-street-2007",
@@ -3178,6 +3178,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/de-gaulle-liberte/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "NT Live: Golden Boy",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/nt-live-golden-boy",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "nt live golden boy"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/nt-live-golden-boy/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
