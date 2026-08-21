@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-21T04:33+10:00",
+ "generated_at": "2026-08-22T04:30+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-21T04:32+10:00",
-   "films": 380
+   "fetched_at": "2026-08-22T04:30+10:00",
+   "films": 374
   },
   {
    "id": "orpheum",
@@ -126,72 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "one night only"
-  },
-  {
-   "title": "Frozen",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/frozen-2013",
-   "poster": "",
-   "rating": "",
-   "year": 2013,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "frozen"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/frozen-2013/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "His Girl Friday",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/his-girl-friday-1940",
-   "poster": "",
-   "rating": "",
-   "year": 1940,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "his girl friday"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/his-girl-friday-1940/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Trainspotting",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/trainspotting-1996",
-   "poster": "",
-   "rating": "",
-   "year": 1996,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "trainspotting"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/trainspotting-1996/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Woodstock",
