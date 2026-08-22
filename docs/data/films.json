@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-22T04:30+10:00",
+ "generated_at": "2026-08-23T04:22+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-22T04:30+10:00",
-   "films": 374
+   "fetched_at": "2026-08-23T04:22+10:00",
+   "films": 372
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "one night only"
-  },
-  {
-   "title": "Woodstock",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/woodstock-1970",
-   "poster": "",
-   "rating": "",
-   "year": 1970,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "woodstock"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/woodstock-1970/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Sense and Sensibility",
