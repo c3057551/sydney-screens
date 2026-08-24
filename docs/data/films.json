@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-24T04:22+10:00",
+ "generated_at": "2026-08-25T04:34+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-24T04:22+10:00",
-   "films": 372
+   "fetched_at": "2026-08-25T04:33+10:00",
+   "films": 370
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "one night only"
-  },
-  {
-   "title": "Sense and Sensibility",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility-1995",
-   "poster": "",
-   "rating": "",
-   "year": 1995,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "sense and sensibility"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/sense-and-sensibility-1995/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "& Sons",
