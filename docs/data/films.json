@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-26T04:34+10:00",
+ "generated_at": "2026-08-27T05:44+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-26T04:33+10:00",
-   "films": 373
+   "fetched_at": "2026-08-27T05:43+10:00",
+   "films": 366
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "Tony",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tony",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tony"
-  },
-  {
    "title": "The Dog Stars",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-dog-stars",
@@ -117,15 +106,15 @@
    "group": "the dog stars"
   },
   {
-   "title": "The End of Oak Street",
+   "title": "Tony",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-end-of-oak-street",
+   "url": "https://www.ritzcinemas.com.au/movies/tony",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the end of oak street"
+   "group": "tony"
   },
   {
    "title": "& Sons",
@@ -137,116 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "sons"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/and-sons/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "I Want Your Sex",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/i-want-your-sex",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "i want your sex"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/i-want-your-sex/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "No End",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/no-end-1985",
-   "poster": "",
-   "rating": "",
-   "year": 1985,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "no end"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/no-end-1985/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Storm Bird",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/storm-bird",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "storm bird"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/storm-bird/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-dog-stars/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Tina Arena: Unravel Me",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tina-arena-unravel-me",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tina arena unravel me"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/tina-arena-unravel-me/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm American Psycho",
@@ -395,6 +274,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/mockbuster/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Panjaa",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/panjaa",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "panjaa"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/panjaa/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -857,6 +758,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/joy-house-film-festival/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Hedwig and the Angry Inch (2001) - 25th Anniversary Screening",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/hedwig-and-the-angry-inch-2001",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "hedwig and the angry inch 25th anniversary screening"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/hedwig-and-the-angry-inch-2001/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
