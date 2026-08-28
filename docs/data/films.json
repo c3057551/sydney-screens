@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-27T05:44+10:00",
+ "generated_at": "2026-08-28T12:00+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-27T05:43+10:00",
-   "films": 366
+   "fetched_at": "2026-08-28T12:00+10:00",
+   "films": 382
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "The Dog Stars",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-dog-stars",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the dog stars"
-  },
-  {
    "title": "Tony",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/tony",
@@ -117,59 +106,26 @@
    "group": "tony"
   },
   {
-   "title": "& Sons",
+   "title": "The Dog Stars",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/and-sons",
+   "url": "https://www.ritzcinemas.com.au/movies/the-dog-stars",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "sons"
+   "group": "the dog stars"
   },
   {
-   "title": "35mm American Psycho",
+   "title": "70mm The Odyssey",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-american-psycho-2000",
-   "poster": "",
-   "rating": "",
-   "year": 2000,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "american psycho"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-american-psycho-2000/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Dreams",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/dreams",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "dreams"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/dreams/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "the odyssey"
   },
   {
    "title": "Daisies",
@@ -986,6 +942,28 @@
    "group": "add reminder"
   },
   {
+   "title": "A Few Good Men",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/a-few-good-men-1992",
+   "poster": "",
+   "rating": "",
+   "year": 1992,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "a few good men"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/a-few-good-men-1992/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Center Stage",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/center-stage-1991",
@@ -1022,6 +1000,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-king-and-i-1956/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Top Gun",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/top-gun-1986",
+   "poster": "",
+   "rating": "",
+   "year": 1986,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "top gun"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/top-gun-1986/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1074,6 +1074,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Mission: Impossible",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/mission-impossible-1996",
+   "poster": "",
+   "rating": "",
+   "year": 1996,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "mission impossible"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/mission-impossible-1996/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "A Short Film About Killing",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/a-short-film-about-killing-1988",
@@ -1096,6 +1118,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Avengers: Endgame Encore",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/avengers-endgame-encore",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "avengers endgame encore"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/avengers-endgame-encore/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Heart of the Beast",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/heart-of-the-beast",
@@ -1110,6 +1154,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/heart-of-the-beast/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Jerry Maguire",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jerry-maguire-1996",
+   "poster": "",
+   "rating": "",
+   "year": 1996,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jerry maguire"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/jerry-maguire-1996/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1176,6 +1242,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/35mm-jackie-brown-1997/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Magnolia",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/magnolia-1999",
+   "poster": "",
+   "rating": "",
+   "year": 1999,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "magnolia"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/magnolia-1999/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1294,6 +1382,28 @@
    "group": "add reminder"
   },
   {
+   "title": "35mm Vanilla Sky",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/35mm-vanilla-sky-2001",
+   "poster": "",
+   "rating": "",
+   "year": 2001,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "vanilla sky"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-vanilla-sky-2001/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "La La Land",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/la-la-land-2016",
@@ -1316,6 +1426,50 @@
    "group": "add reminder"
   },
   {
+   "title": "35mm Minority Report",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/35mm-minority-report-2002",
+   "poster": "",
+   "rating": "",
+   "year": 2002,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "minority report"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-minority-report-2002/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Collateral",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/collateral-2004",
+   "poster": "",
+   "rating": "",
+   "year": 2004,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "collateral"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/collateral-2004/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "The Apartment",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-apartment-1960",
@@ -1330,6 +1484,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-apartment-1960/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Edge of Tomorrow",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/edge-of-tomorrow-2014",
+   "poster": "",
+   "rating": "",
+   "year": 2014,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "edge of tomorrow"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/edge-of-tomorrow-2014/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
