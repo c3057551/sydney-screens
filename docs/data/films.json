@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-29T11:25+10:00",
+ "generated_at": "2026-08-30T06:20+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-29T11:24+10:00",
-   "films": 376
+   "fetched_at": "2026-08-30T06:20+10:00",
+   "films": 374
   },
   {
    "id": "orpheum",
@@ -95,6 +95,17 @@
    "group": "spider man brand new day"
   },
   {
+   "title": "70mm The Odyssey",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the odyssey"
+  },
+  {
    "title": "The Dog Stars",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-dog-stars",
@@ -115,39 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "tony"
-  },
-  {
-   "title": "70mm The Odyssey",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the odyssey"
-  },
-  {
-   "title": "Sister Act",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/sister-act-1992",
-   "poster": "",
-   "rating": "",
-   "year": 1992,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "sister act"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/sister-act-1992/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Mockbuster",
