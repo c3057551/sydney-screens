@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-28T12:00+10:00",
+ "generated_at": "2026-08-29T11:25+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-28T12:00+10:00",
-   "films": 382
+   "fetched_at": "2026-08-29T11:24+10:00",
+   "films": 376
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "Tony",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tony",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tony"
-  },
-  {
    "title": "The Dog Stars",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-dog-stars",
@@ -117,6 +106,17 @@
    "group": "the dog stars"
   },
   {
+   "title": "Tony",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/tony",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "tony"
+  },
+  {
    "title": "70mm The Odyssey",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
@@ -126,72 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the odyssey"
-  },
-  {
-   "title": "Daisies",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/daisies-1966",
-   "poster": "",
-   "rating": "",
-   "year": 1966,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "daisies"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/daisies-1966/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Mrs. Doubtfire",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/mrs-doubtfire-1993",
-   "poster": "",
-   "rating": "",
-   "year": 1993,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "mrs doubtfire"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/mrs-doubtfire-1993/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Grapes of Wrath",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-grapes-of-wrath-1940",
-   "poster": "",
-   "rating": "",
-   "year": 1940,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the grapes of wrath"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-grapes-of-wrath-1940/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Sister Act",
