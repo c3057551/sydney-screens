@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-30T06:20+10:00",
+ "generated_at": "2026-08-31T06:28+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-30T06:20+10:00",
-   "films": 374
+   "fetched_at": "2026-08-31T06:27+10:00",
+   "films": 372
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "tony"
-  },
-  {
-   "title": "Mockbuster",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/mockbuster",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "mockbuster"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/mockbuster/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Panjaa",
