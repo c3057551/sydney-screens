@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-31T06:28+10:00",
+ "generated_at": "2026-09-01T08:21+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-08-31T06:27+10:00",
-   "films": 372
+   "fetched_at": "2026-09-01T08:21+10:00",
+   "films": 375
   },
   {
    "id": "orpheum",
@@ -95,15 +95,15 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "70mm The Odyssey",
+   "title": "Tony",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/70mm-the-odyssey",
+   "url": "https://www.ritzcinemas.com.au/movies/tony",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the odyssey"
+   "group": "tony"
   },
   {
    "title": "The Dog Stars",
@@ -117,61 +117,6 @@
    "group": "the dog stars"
   },
   {
-   "title": "Tony",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tony",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tony"
-  },
-  {
-   "title": "Panjaa",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/panjaa",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "panjaa"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/panjaa/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "You've Got Mail",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/youve-got-mail-1998",
-   "poster": "",
-   "rating": "",
-   "year": 1998,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "you ve got mail"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/youve-got-mail-1998/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "De Gaulle: Resistance",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/de-gaulle-resistance",
@@ -181,6 +126,28 @@
    "coming_soon": true,
    "sessions": [],
    "group": "de gaulle resistance"
+  },
+  {
+   "title": "By Any Means",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/by-any-means",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "by any means"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/by-any-means/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
   },
   {
    "title": "Add Reminder",
@@ -494,6 +461,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-hunger-games-the-ballad-of-songbirds-and-snakes/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Valley",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-valley",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the valley"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-valley/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -832,6 +821,28 @@
    "group": "add reminder"
   },
   {
+   "title": "70mm Vertigo",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/70mm-vertigo-1958",
+   "poster": "",
+   "rating": "",
+   "year": 1958,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "vertigo"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/70mm-vertigo-1958/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "A Few Good Men",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/a-few-good-men-1992",
@@ -956,6 +967,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/pride-and-prejudice-2005/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Girl Climber",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/girl-climber",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "girl climber"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/girl-climber/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
