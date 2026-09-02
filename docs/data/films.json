@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-02T06:28+10:00",
+ "generated_at": "2026-09-03T06:27+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-02T06:27+10:00",
-   "films": 403
+   "fetched_at": "2026-09-03T06:27+10:00",
+   "films": 398
   },
   {
    "id": "orpheum",
@@ -106,83 +106,6 @@
    "group": "de gaulle resistance"
   },
   {
-   "title": "Tony",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tony",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tony"
-  },
-  {
-   "title": "The Dog Stars",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-dog-stars",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the dog stars"
-  },
-  {
-   "title": "By Any Means",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/by-any-means",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "by any means"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/by-any-means/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/de-gaulle-resistance/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "It Ends",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/it-ends",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "it ends"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/it-ends/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Silenced",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/silenced",
@@ -194,15 +117,15 @@
    "group": "silenced"
   },
   {
-   "title": "Add Reminder",
+   "title": "The Invite",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/silenced/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
+   "group": "the invite"
   },
   {
    "title": "35mm Yi Yi",
@@ -945,6 +868,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/top-gun-1986/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Yeah Yeah Yeahs present Hidden in Pieces & Mulholland Drive",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/yeah-yeah-yeahs-present-hidden-in-pieces-mulholland-drive",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "yeah yeah yeahs present hidden in pieces mulholland drive"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/yeah-yeah-yeahs-present-hidden-in-pieces-mulholland-drive/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
