@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-03T06:27+10:00",
+ "generated_at": "2026-09-04T06:26+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-03T06:27+10:00",
+   "fetched_at": "2026-09-04T06:25+10:00",
    "films": 398
   },
   {
@@ -106,17 +106,6 @@
    "group": "de gaulle resistance"
   },
   {
-   "title": "Silenced",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/silenced",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "silenced"
-  },
-  {
    "title": "The Invite",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-invite",
@@ -128,26 +117,15 @@
    "group": "the invite"
   },
   {
-   "title": "35mm Yi Yi",
+   "title": "Tony",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-yi-yi-2000",
-   "poster": "",
-   "rating": "",
-   "year": 2000,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "yi yi"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-yi-yi-2000/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/tony",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
+   "group": "tony"
   },
   {
    "title": "Terminator 2: Judgment Day",
@@ -2210,6 +2188,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/akira-1988/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "BluePrint - Iconic Jazz infused with the Blues",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/blueprint-iconic-jazz-infused-with-the-blues",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "blueprint iconic jazz infused with the blues"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/blueprint-iconic-jazz-infused-with-the-blues/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
