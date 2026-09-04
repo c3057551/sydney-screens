@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-04T06:26+10:00",
+ "generated_at": "2026-09-05T06:12+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-04T06:25+10:00",
-   "films": 398
+   "fetched_at": "2026-09-05T06:12+10:00",
+   "films": 394
   },
   {
    "id": "orpheum",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "tony"
-  },
-  {
-   "title": "Terminator 2: Judgment Day",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/terminator-2-judgment-day-1991",
-   "poster": "",
-   "rating": "",
-   "year": 1991,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "terminator 2 judgment day"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/terminator-2-judgment-day-1991/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Iron Giant",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-iron-giant-1999",
-   "poster": "",
-   "rating": "",
-   "year": 1999,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the iron giant"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-iron-giant-1999/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Moonage Daydream",
