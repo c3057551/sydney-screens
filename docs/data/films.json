@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-05T06:12+10:00",
+ "generated_at": "2026-09-06T05:51+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-05T06:12+10:00",
-   "films": 394
+   "fetched_at": "2026-09-06T05:51+10:00",
+   "films": 391
   },
   {
    "id": "orpheum",
@@ -117,37 +117,15 @@
    "group": "the invite"
   },
   {
-   "title": "Tony",
+   "title": "Hope",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tony",
+   "url": "https://www.ritzcinemas.com.au/movies/hope",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "tony"
-  },
-  {
-   "title": "Moonage Daydream",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/moonage-daydream-2022",
-   "poster": "",
-   "rating": "",
-   "year": 2022,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "moonage daydream"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/moonage-daydream-2022/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "hope"
   },
   {
    "title": "Pretty Woman",
@@ -214,17 +192,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Hope",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/hope",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "hope"
   },
   {
    "title": "Add Reminder",
