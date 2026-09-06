@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-06T05:51+10:00",
+ "generated_at": "2026-09-07T05:56+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-06T05:51+10:00",
-   "films": 391
+   "fetched_at": "2026-09-07T05:55+10:00",
+   "films": 390
   },
   {
    "id": "orpheum",
@@ -95,28 +95,6 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "De Gaulle: Resistance",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/de-gaulle-resistance",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "de gaulle resistance"
-  },
-  {
-   "title": "The Invite",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-invite",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the invite"
-  },
-  {
    "title": "Hope",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/hope",
@@ -126,6 +104,28 @@
    "coming_soon": true,
    "sessions": [],
    "group": "hope"
+  },
+  {
+   "title": "Oasis: Don't Look Back In Anger",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/oasis-dont-look-back-in-anger",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "oasis don t look back in anger"
+  },
+  {
+   "title": "De Gaulle: Resistance",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/de-gaulle-resistance",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "de gaulle resistance"
   },
   {
    "title": "Pretty Woman",
@@ -203,17 +203,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Oasis: Don't Look Back In Anger",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/oasis-dont-look-back-in-anger",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "oasis don t look back in anger"
   },
   {
    "title": "Add Reminder",
