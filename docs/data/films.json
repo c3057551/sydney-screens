@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-07T05:56+10:00",
+ "generated_at": "2026-09-08T07:03+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-07T05:55+10:00",
-   "films": 390
+   "fetched_at": "2026-09-08T07:03+10:00",
+   "films": 389
   },
   {
    "id": "orpheum",
@@ -84,6 +84,28 @@
  ],
  "films": [
   {
+   "title": "Practical Magic 2",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "practical magic 2"
+  },
+  {
+   "title": "Tony",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/tony",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "tony"
+  },
+  {
    "title": "Spider-Man: Brand New Day",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
@@ -95,28 +117,6 @@
    "group": "spider man brand new day"
   },
   {
-   "title": "Hope",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/hope",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "hope"
-  },
-  {
-   "title": "Oasis: Don't Look Back In Anger",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/oasis-dont-look-back-in-anger",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "oasis don t look back in anger"
-  },
-  {
    "title": "De Gaulle: Resistance",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/de-gaulle-resistance",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "de gaulle resistance"
-  },
-  {
-   "title": "Pretty Woman",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/pretty-woman-1990",
-   "poster": "",
-   "rating": "",
-   "year": 1990,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "pretty woman"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/pretty-woman-1990/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Dekalog 4-6",
@@ -172,26 +150,15 @@
    "group": "add reminder"
   },
   {
-   "title": "EXHIBITION ON SCREEN: James McNeill Whistler",
+   "title": "Hope",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-james-mcneill-whistler",
+   "url": "https://www.ritzcinemas.com.au/movies/hope",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "exhibition on screen james mcneill whistler"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/exhibition-on-screen-james-mcneill-whistler/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "hope"
   },
   {
    "title": "Add Reminder",
@@ -203,6 +170,17 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
+  },
+  {
+   "title": "Oasis: Don't Look Back In Anger",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/oasis-dont-look-back-in-anger",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "oasis don t look back in anger"
   },
   {
    "title": "Add Reminder",
@@ -238,42 +216,9 @@
    "group": "add reminder"
   },
   {
-   "title": "Practical Magic 2",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "practical magic 2"
-  },
-  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/practical-magic-2/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-the-ballad-of-songbirds-and-snakes",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the hunger games the ballad of songbirds and snakes"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-hunger-games-the-ballad-of-songbirds-and-snakes/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -604,6 +549,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/drop-dead-gorgeous-1999/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "EXHIBITION ON SCREEN: James McNeill Whistler",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-james-mcneill-whistler",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "exhibition on screen james mcneill whistler"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/exhibition-on-screen-james-mcneill-whistler/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -4366,6 +4333,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/not-alone/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "EXHIBITION ON SCREEN: Monet",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-monet",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "exhibition on screen monet"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/exhibition-on-screen-monet/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
