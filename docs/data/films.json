@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-08T07:03+10:00",
+ "generated_at": "2026-09-09T06:38+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-08T07:03+10:00",
-   "films": 389
+   "fetched_at": "2026-09-09T06:38+10:00",
+   "films": 405
   },
   {
    "id": "orpheum",
@@ -219,28 +219,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/practical-magic-2/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Valley",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-valley",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the valley"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-valley/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -703,6 +681,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-king-and-i-1956/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Valley",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-valley",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the valley"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-valley/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2581,6 +2581,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Met Opera: Cos\u00ec fan tutte",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/met-opera-cosi-fan-tutte",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "met opera cosi fan tutte"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-cosi-fan-tutte/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "The Thing",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-thing-1982",
@@ -2947,6 +2969,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/a-streetcar-named-desire-1951/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Met Opera: Macbeth",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/met-opera-macbeth",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "met opera macbeth"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-macbeth/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -4231,6 +4275,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Met Opera: Samson et Dalila",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/met-opera-samson-et-dalila",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "met opera samson et dalila"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-samson-et-dalila/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Mr. Irrelevant",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/mr-irrelevant",
@@ -4319,6 +4385,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Met Opera: La Fanciulla del West",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/met-opera-la-fanciulla-del-west",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "met opera la fanciulla del west"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-la-fanciulla-del-west/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Not Alone",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/not-alone",
@@ -4341,6 +4429,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Met Opera: Silent Night",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/met-opera-silent-night",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "met opera silent night"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-silent-night/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "EXHIBITION ON SCREEN: Monet",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-monet",
@@ -4355,6 +4465,72 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/exhibition-on-screen-monet/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Met Opera: Manon",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/met-opera-manon",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "met opera manon"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-manon/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Met Opera: Otello",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/met-opera-otello",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "met opera otello"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-otello/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Met Opera: Parsifal",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/met-opera-parsifal",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "met opera parsifal"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-parsifal/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
