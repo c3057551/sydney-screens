@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-09T06:38+10:00",
+ "generated_at": "2026-09-10T06:20+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-09T06:38+10:00",
-   "films": 405
+   "fetched_at": "2026-09-10T06:19+10:00",
+   "films": 396
   },
   {
    "id": "orpheum",
@@ -106,72 +106,6 @@
    "group": "tony"
   },
   {
-   "title": "Spider-Man: Brand New Day",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "spider man brand new day"
-  },
-  {
-   "title": "De Gaulle: Resistance",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/de-gaulle-resistance",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "de gaulle resistance"
-  },
-  {
-   "title": "Dekalog 4-6",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/dekalog-4-6-1988",
-   "poster": "",
-   "rating": "",
-   "year": 1988,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "dekalog 4 6"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/dekalog-4-6-1988/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Hope",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/hope",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "hope"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/hope/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Oasis: Don't Look Back In Anger",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/oasis-dont-look-back-in-anger",
@@ -183,48 +117,15 @@
    "group": "oasis don t look back in anger"
   },
   {
-   "title": "Add Reminder",
+   "title": "Spider-Man: Brand New Day",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/oasis-dont-look-back-in-anger/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/spider-man-brand-new-day",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Paw Patrol - The Dino Movie",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/paw-patrol-the-dino-movie",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "paw patrol the dino movie"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/paw-patrol-the-dino-movie/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/practical-magic-2/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "spider man brand new day"
   },
   {
    "title": "Cat on a Hot Tin Roof",
