@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-11T06:22+10:00",
+ "generated_at": "2026-09-12T06:23+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-11T06:22+10:00",
-   "films": 399
+   "fetched_at": "2026-09-12T06:23+10:00",
+   "films": 392
   },
   {
    "id": "orpheum",
@@ -84,17 +84,6 @@
  ],
  "films": [
   {
-   "title": "Practical Magic 2",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "practical magic 2"
-  },
-  {
    "title": "Resident Evil",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/resident-evil",
@@ -106,6 +95,28 @@
    "group": "resident evil"
   },
   {
+   "title": "Practical Magic 2",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "practical magic 2"
+  },
+  {
+   "title": "Coyote vs. Acme",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/coyote-vs-acme",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "coyote vs acme"
+  },
+  {
    "title": "Tony",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/tony",
@@ -115,83 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "tony"
-  },
-  {
-   "title": "Oasis: Don't Look Back In Anger",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/oasis-dont-look-back-in-anger",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "oasis don t look back in anger"
-  },
-  {
-   "title": "Cat on a Hot Tin Roof",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/cat-on-a-hot-tin-roof-1958",
-   "poster": "",
-   "rating": "",
-   "year": 1958,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "cat on a hot tin roof"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/cat-on-a-hot-tin-roof-1958/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Mulholland Drive",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/mulholland-drive-2001",
-   "poster": "",
-   "rating": "",
-   "year": 2001,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "mulholland drive"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/mulholland-drive-2001/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Many Adventures of Winnie the Pooh",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-many-adventures-of-winnie-the-pooh-1977",
-   "poster": "",
-   "rating": "",
-   "year": 1977,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the many adventures of winnie the pooh"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-many-adventures-of-winnie-the-pooh-1977/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Chicago",
@@ -280,17 +214,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Coyote vs. Acme",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/coyote-vs-acme",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "coyote vs acme"
   },
   {
    "title": "Add Reminder",
@@ -1767,28 +1690,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Primetime",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/primetime",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "primetime"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/primetime/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Sense and Sensibility",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
@@ -2397,6 +2298,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/pressure/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Primetime",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/primetime",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "primetime"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/primetime/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
