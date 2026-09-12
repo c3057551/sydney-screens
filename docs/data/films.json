@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-12T06:23+10:00",
+ "generated_at": "2026-09-13T06:07+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-12T06:23+10:00",
-   "films": 392
+   "fetched_at": "2026-09-13T06:06+10:00",
+   "films": 388
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "resident evil"
   },
   {
-   "title": "Practical Magic 2",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "practical magic 2"
-  },
-  {
    "title": "Coyote vs. Acme",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/coyote-vs-acme",
@@ -117,6 +106,17 @@
    "group": "coyote vs acme"
   },
   {
+   "title": "Practical Magic 2",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "practical magic 2"
+  },
+  {
    "title": "Tony",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/tony",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "tony"
-  },
-  {
-   "title": "Chicago",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/chicago-2002",
-   "poster": "",
-   "rating": "",
-   "year": 2002,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "chicago"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/chicago-2002/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Joy House Film Festival",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/joy-house-film-festival",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "joy house film festival"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/joy-house-film-festival/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Hedwig and the Angry Inch (2001) - 25th Anniversary Screening",
