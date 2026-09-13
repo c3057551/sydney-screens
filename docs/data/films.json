@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-13T06:07+10:00",
+ "generated_at": "2026-09-14T06:13+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-13T06:06+10:00",
-   "films": 388
+   "fetched_at": "2026-09-14T06:13+10:00",
+   "films": 386
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "tony"
-  },
-  {
-   "title": "Hedwig and the Angry Inch (2001) - 25th Anniversary Screening",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/hedwig-and-the-angry-inch-2001",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "hedwig and the angry inch 25th anniversary screening"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/hedwig-and-the-angry-inch-2001/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Frances Ha",
