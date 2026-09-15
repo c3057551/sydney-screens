@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-15T07:22+10:00",
+ "generated_at": "2026-09-16T06:48+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-15T07:22+10:00",
-   "films": 508
+   "fetched_at": "2026-09-16T06:48+10:00",
+   "films": 514
   },
   {
    "id": "orpheum",
@@ -84,28 +84,6 @@
  ],
  "films": [
   {
-   "title": "Resident Evil",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/resident-evil",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "resident evil"
-  },
-  {
-   "title": "Coyote vs. Acme",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/coyote-vs-acme",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "coyote vs acme"
-  },
-  {
    "title": "Practical Magic 2",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
@@ -117,6 +95,28 @@
    "group": "practical magic 2"
   },
   {
+   "title": "Resident Evil",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/resident-evil",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "resident evil"
+  },
+  {
+   "title": "Forgotten Island",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/forgotten-island",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "forgotten island"
+  },
+  {
    "title": "Tony",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/tony",
@@ -126,6 +126,17 @@
    "coming_soon": true,
    "sessions": [],
    "group": "tony"
+  },
+  {
+   "title": "Coyote vs. Acme",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/coyote-vs-acme",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "coyote vs acme"
   },
   {
    "title": "Add Reminder",
@@ -159,17 +170,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Forgotten Island",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/forgotten-island",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "forgotten island"
   },
   {
    "title": "Add Reminder",
@@ -3186,6 +3186,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Perfect Blue",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/perfect-blue-1997",
+   "poster": "",
+   "rating": "",
+   "year": 1997,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "perfect blue"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/perfect-blue-1997/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Psycho",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/psycho-1960",
@@ -3428,6 +3450,28 @@
    "group": "add reminder"
   },
   {
+   "title": "The Rocky Horror Picture Show",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-rocky-horror-picture-show-1975",
+   "poster": "",
+   "rating": "",
+   "year": 1975,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the rocky horror picture show"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-rocky-horror-picture-show-1975/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Casper",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/casper-1995",
@@ -3464,6 +3508,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/dracula-1931/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "House",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/house-1977",
+   "poster": "",
+   "rating": "",
+   "year": 1977,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "house"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/house-1977/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
