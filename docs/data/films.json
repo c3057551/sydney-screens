@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-16T06:48+10:00",
+ "generated_at": "2026-09-17T06:48+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-16T06:48+10:00",
-   "films": 514
+   "fetched_at": "2026-09-17T06:48+10:00",
+   "films": 518
   },
   {
    "id": "orpheum",
@@ -84,17 +84,6 @@
  ],
  "films": [
   {
-   "title": "Practical Magic 2",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "practical magic 2"
-  },
-  {
    "title": "Resident Evil",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/resident-evil",
@@ -117,6 +106,17 @@
    "group": "forgotten island"
   },
   {
+   "title": "Practical Magic 2",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "practical magic 2"
+  },
+  {
    "title": "Tony",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/tony",
@@ -126,94 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "tony"
-  },
-  {
-   "title": "Coyote vs. Acme",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/coyote-vs-acme",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "coyote vs acme"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/coyote-vs-acme/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Dekalog 7-10",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/dekalog-7-10-1988",
-   "poster": "",
-   "rating": "",
-   "year": 1988,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "dekalog 7 10"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/dekalog-7-10-1988/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/forgotten-island/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/resident-evil/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Weight",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-weight",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the weight"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-weight/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "70mm 2001: A Space Odyssey",
@@ -3274,6 +3186,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Cure",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/cure-1997",
+   "poster": "",
+   "rating": "",
+   "year": 1997,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "cure"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/cure-1997/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Little Shop Of Horrors",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/little-shop-of-horrors-1986",
@@ -3296,6 +3230,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Jigoku",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jigoku-1960",
+   "poster": "",
+   "rating": "",
+   "year": 1960,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jigoku"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/jigoku-1960/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Practical Magic",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/practical-magic-1998",
@@ -3310,6 +3266,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/practical-magic-1998/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Evil Dead Trap",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/evil-dead-trap-1988",
+   "poster": "",
+   "rating": "",
+   "year": 1988,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "evil dead trap"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/evil-dead-trap-1988/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3376,6 +3354,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/primetime/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Housemaid",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-housemaid-1960",
+   "poster": "",
+   "rating": "",
+   "year": 1960,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the housemaid"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-housemaid-1960/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3464,6 +3464,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-rocky-horror-picture-show-1975/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Audition",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/audition-2000",
+   "poster": "",
+   "rating": "",
+   "year": 1999,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "audition"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/audition-2000/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3596,6 +3618,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/mary-poppins-1964/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Noroi: The Curse",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/noroi-the-curse-2005",
+   "poster": "",
+   "rating": "",
+   "year": 2005,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "noroi the curse"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/noroi-the-curse-2005/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
