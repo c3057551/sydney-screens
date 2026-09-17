@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-17T06:48+10:00",
+ "generated_at": "2026-09-18T06:54+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-17T06:48+10:00",
-   "films": 518
+   "fetched_at": "2026-09-18T06:54+10:00",
+   "films": 520
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "tony"
-  },
-  {
-   "title": "70mm 2001: A Space Odyssey",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/70mm-2001-a-space-odyssey-1968",
-   "poster": "",
-   "rating": "",
-   "year": 1968,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "2001 a space odyssey"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/70mm-2001-a-space-odyssey-1968/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Drop Dead Gorgeous",
@@ -3846,6 +3824,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Pickpockets",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/pickpockets",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "pickpockets"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/pickpockets/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Suddenly 30",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/suddenly-30",
@@ -4146,28 +4146,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/bad-apples/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "De Gaulle: Libert\u00e9",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/de-gaulle-liberte",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "de gaulle liberte"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/de-gaulle-liberte/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -5298,6 +5276,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Prima Facie",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/prima-facie",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "prima facie"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/prima-facie/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "EXHIBITION ON SCREEN: Renoir & Love",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-renoir-love",
@@ -5342,28 +5342,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Fjord",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/fjord",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "fjord"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/fjord/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Elsinore",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/elsinore",
@@ -5378,6 +5356,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/elsinore/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Fjord",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/fjord",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "fjord"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/fjord/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -5664,6 +5664,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/not-alone/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "De Gaulle: Libert\u00e9",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/de-gaulle-liberte",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "de gaulle liberte"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/de-gaulle-liberte/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
