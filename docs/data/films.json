@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-18T06:54+10:00",
+ "generated_at": "2026-09-19T06:19+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-18T06:54+10:00",
-   "films": 520
+   "fetched_at": "2026-09-19T06:19+10:00",
+   "films": 512
   },
   {
    "id": "orpheum",
@@ -117,103 +117,15 @@
    "group": "practical magic 2"
   },
   {
-   "title": "Tony",
+   "title": "Coyote vs. Acme",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tony",
+   "url": "https://www.ritzcinemas.com.au/movies/coyote-vs-acme",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "tony"
-  },
-  {
-   "title": "Drop Dead Gorgeous",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/drop-dead-gorgeous-1999",
-   "poster": "",
-   "rating": "",
-   "year": 1999,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "drop dead gorgeous"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/drop-dead-gorgeous-1999/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "EXHIBITION ON SCREEN: James McNeill Whistler",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/exhibition-on-screen-james-mcneill-whistler",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "exhibition on screen james mcneill whistler"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/exhibition-on-screen-james-mcneill-whistler/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Jezebel",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jezebel-1938",
-   "poster": "",
-   "rating": "",
-   "year": 1938,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jezebel"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/jezebel-1938/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Jumanji",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jumanji-1995",
-   "poster": "",
-   "rating": "",
-   "year": 1995,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jumanji"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/jumanji-1995/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "coyote vs acme"
   },
   {
    "title": "70mm Vertigo",
@@ -3274,28 +3186,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Ken Russell's The Devils",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/ken-russells-the-devils-1971",
-   "poster": "",
-   "rating": "",
-   "year": 1971,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "ken russell s the devils"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/ken-russells-the-devils-1971/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Pressure",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/pressure",
@@ -3332,6 +3222,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/primetime/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Devils",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/ken-russells-the-devils-1971",
+   "poster": "",
+   "rating": "",
+   "year": 1971,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the devils"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/ken-russells-the-devils-1971/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
