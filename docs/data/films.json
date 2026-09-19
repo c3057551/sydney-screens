@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-19T06:19+10:00",
+ "generated_at": "2026-09-20T05:58+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-19T06:19+10:00",
-   "films": 512
+   "fetched_at": "2026-09-20T05:58+10:00",
+   "films": 502
   },
   {
    "id": "orpheum",
@@ -126,116 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "coyote vs acme"
-  },
-  {
-   "title": "70mm Vertigo",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/70mm-vertigo-1958",
-   "poster": "",
-   "rating": "",
-   "year": 1958,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "vertigo"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/70mm-vertigo-1958/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "A Few Good Men",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/a-few-good-men-1992",
-   "poster": "",
-   "rating": "",
-   "year": 1992,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "a few good men"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/a-few-good-men-1992/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Center Stage",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/center-stage-1991",
-   "poster": "",
-   "rating": "",
-   "year": 1991,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "center stage"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/center-stage-1991/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The King and I",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-king-and-i-1956",
-   "poster": "",
-   "rating": "",
-   "year": 1956,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the king and i"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-king-and-i-1956/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Valley",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-valley",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the valley"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-valley/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Top Gun",
