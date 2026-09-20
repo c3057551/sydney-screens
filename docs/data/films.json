@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-20T05:58+10:00",
+ "generated_at": "2026-09-21T06:14+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-20T05:58+10:00",
-   "films": 502
+   "fetched_at": "2026-09-21T06:13+10:00",
+   "films": 498
   },
   {
    "id": "orpheum",
@@ -117,59 +117,15 @@
    "group": "practical magic 2"
   },
   {
-   "title": "Coyote vs. Acme",
+   "title": "Tony",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/coyote-vs-acme",
+   "url": "https://www.ritzcinemas.com.au/movies/tony",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "coyote vs acme"
-  },
-  {
-   "title": "Top Gun",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/top-gun-1986",
-   "poster": "",
-   "rating": "",
-   "year": 1986,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "top gun"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/top-gun-1986/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Yeah Yeah Yeahs present Hidden in Pieces & Mulholland Drive",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/yeah-yeah-yeahs-present-hidden-in-pieces-mulholland-drive",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "yeah yeah yeahs present hidden in pieces mulholland drive"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/yeah-yeah-yeahs-present-hidden-in-pieces-mulholland-drive/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "tony"
   },
   {
    "title": "Interview with the Vampire",
