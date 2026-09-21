@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-21T06:14+10:00",
+ "generated_at": "2026-09-22T07:38+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-21T06:13+10:00",
-   "films": 498
+   "fetched_at": "2026-09-22T07:38+10:00",
+   "films": 497
   },
   {
    "id": "orpheum",
@@ -95,15 +95,15 @@
    "group": "resident evil"
   },
   {
-   "title": "Forgotten Island",
+   "title": "Heart of the Beast",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/forgotten-island",
+   "url": "https://www.ritzcinemas.com.au/movies/heart-of-the-beast",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "forgotten island"
+   "group": "heart of the beast"
   },
   {
    "title": "Practical Magic 2",
@@ -117,59 +117,15 @@
    "group": "practical magic 2"
   },
   {
-   "title": "Tony",
+   "title": "Forgotten Island",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tony",
+   "url": "https://www.ritzcinemas.com.au/movies/forgotten-island",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "tony"
-  },
-  {
-   "title": "Interview with the Vampire",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/interview-with-the-vampire-1994",
-   "poster": "",
-   "rating": "",
-   "year": 1994,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "interview with the vampire"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/interview-with-the-vampire-1994/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Pride and Prejudice",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/pride-and-prejudice-2005",
-   "poster": "",
-   "rating": "",
-   "year": 2005,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "pride and prejudice"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/pride-and-prejudice-2005/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "forgotten island"
   },
   {
    "title": "Girl Climber",
@@ -280,17 +236,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Heart of the Beast",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/heart-of-the-beast",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "heart of the beast"
   },
   {
    "title": "Add Reminder",
@@ -898,6 +843,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Jack Johnson: SURFILMUSIC",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jack-johnson-surfilmusic",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jack johnson surfilmusic"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/jack-johnson-surfilmusic/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Queen Budapest",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/queen-budapest",
@@ -1462,28 +1429,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/blueprint-iconic-jazz-infused-with-the-blues/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "COMMON\u00a0WEALTH",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/common-wealth",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "common wealth"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/common-wealth/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3340,6 +3285,28 @@
    "group": "add reminder"
   },
   {
+   "title": "COMMON\u00a0WEALTH",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/common-wealth",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "common wealth"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/common-wealth/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Mary Poppins",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/mary-poppins-1964",
@@ -3640,6 +3607,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/fatherland/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "George Michael: The Faith Tour",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/george-michael-the-faith-tour",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "george michael the faith tour"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/george-michael-the-faith-tour/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
