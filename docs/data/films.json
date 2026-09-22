@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-22T07:38+10:00",
+ "generated_at": "2026-09-23T06:49+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-22T07:38+10:00",
-   "films": 497
+   "fetched_at": "2026-09-23T06:48+10:00",
+   "films": 493
   },
   {
    "id": "orpheum",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "forgotten island"
-  },
-  {
-   "title": "Girl Climber",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/girl-climber",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "girl climber"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/girl-climber/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Mission: Impossible",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/mission-impossible-1996",
-   "poster": "",
-   "rating": "",
-   "year": 1996,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "mission impossible"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/mission-impossible-1996/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "A Short Film About Killing",
