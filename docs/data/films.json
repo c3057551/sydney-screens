@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-23T06:49+10:00",
+ "generated_at": "2026-09-24T07:00+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-23T06:48+10:00",
-   "films": 493
+   "fetched_at": "2026-09-24T07:00+10:00",
+   "films": 479
   },
   {
    "id": "orpheum",
@@ -84,15 +84,15 @@
  ],
  "films": [
   {
-   "title": "Resident Evil",
+   "title": "Verity",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/resident-evil",
+   "url": "https://www.ritzcinemas.com.au/movies/verity",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "resident evil"
+   "group": "verity"
   },
   {
    "title": "Heart of the Beast",
@@ -106,6 +106,17 @@
    "group": "heart of the beast"
   },
   {
+   "title": "Resident Evil",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/resident-evil",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "resident evil"
+  },
+  {
    "title": "Practical Magic 2",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
@@ -115,160 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "practical magic 2"
-  },
-  {
-   "title": "Forgotten Island",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/forgotten-island",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "forgotten island"
-  },
-  {
-   "title": "A Short Film About Killing",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/a-short-film-about-killing-1988",
-   "poster": "",
-   "rating": "",
-   "year": 1988,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "a short film about killing"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/a-short-film-about-killing-1988/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Avengers: Endgame Encore",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/avengers-endgame-encore",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "avengers endgame encore"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/avengers-endgame-encore/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Charlie Harper",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/charlie-harper",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "charlie harper"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/charlie-harper/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/heart-of-the-beast/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Jerry Maguire",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jerry-maguire-1996",
-   "poster": "",
-   "rating": "",
-   "year": 1996,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jerry maguire"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/jerry-maguire-1996/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/shaun-the-sheep-the-beast-of-mossy-bottom",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "shaun the sheep the beast of mossy bottom"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/shaun-the-sheep-the-beast-of-mossy-bottom/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Last Whale Singer",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-last-whale-singer",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the last whale singer"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-last-whale-singer/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm Jackie Brown",
@@ -643,17 +500,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Verity",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/verity",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "verity"
   },
   {
    "title": "Add Reminder",
