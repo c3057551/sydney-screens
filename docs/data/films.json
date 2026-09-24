@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-24T07:00+10:00",
+ "generated_at": "2026-09-25T07:05+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-24T07:00+10:00",
-   "films": 479
+   "fetched_at": "2026-09-25T07:04+10:00",
+   "films": 474
   },
   {
    "id": "orpheum",
@@ -95,6 +95,17 @@
    "group": "verity"
   },
   {
+   "title": "Digger",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/digger",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "digger"
+  },
+  {
    "title": "Heart of the Beast",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/heart-of-the-beast",
@@ -115,61 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "resident evil"
-  },
-  {
-   "title": "Practical Magic 2",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/practical-magic-2",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "practical magic 2"
-  },
-  {
-   "title": "35mm Jackie Brown",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-jackie-brown-1997",
-   "poster": "",
-   "rating": "",
-   "year": 1997,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jackie brown"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-jackie-brown-1997/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Magnolia",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/magnolia-1999",
-   "poster": "",
-   "rating": "",
-   "year": 1999,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "magnolia"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/magnolia-1999/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm Eyes Wide Shut",
@@ -456,17 +412,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Digger",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/digger",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "digger"
   },
   {
    "title": "Add Reminder",
@@ -5001,28 +4946,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Remain",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/remain",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "remain"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/remain/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Met Opera: Samson et Dalila",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/met-opera-samson-et-dalila",
@@ -5059,6 +4982,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/mr-irrelevant/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Remain",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/remain",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "remain"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/remain/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
