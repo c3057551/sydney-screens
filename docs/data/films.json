@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-25T07:05+10:00",
+ "generated_at": "2026-09-26T07:02+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-25T07:04+10:00",
-   "films": 474
+   "fetched_at": "2026-09-26T07:01+10:00",
+   "films": 466
   },
   {
    "id": "orpheum",
@@ -126,116 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "resident evil"
-  },
-  {
-   "title": "35mm Eyes Wide Shut",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-eyes-wide-shut-1999",
-   "poster": "",
-   "rating": "",
-   "year": 1999,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "eyes wide shut"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-eyes-wide-shut-1999/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Chitty Chitty Bang Bang",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/chitty-chitty-bang-bang-1968",
-   "poster": "",
-   "rating": "",
-   "year": 1968,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "chitty chitty bang bang"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/chitty-chitty-bang-bang-1968/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Hunger Games Marathon",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/hunger-games-marathon",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "hunger games marathon"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/hunger-games-marathon/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Doom Generation",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-doom-generation-1995",
-   "poster": "",
-   "rating": "",
-   "year": 1995,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the doom generation"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-doom-generation-1995/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Searchers",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-searchers-1956",
-   "poster": "",
-   "rating": "",
-   "year": 1956,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the searchers"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-searchers-1956/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm Vanilla Sky",
@@ -3714,6 +3604,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Zombucha!",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/zombucha",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "zombucha"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/zombucha/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "35mm Howl's Moving Castle",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/35mm-howls-moving-castle-2004",
@@ -5144,28 +5056,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Not Alone",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/not-alone",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "not alone"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/not-alone/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "De Gaulle: Libert\u00e9",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/de-gaulle-liberte",
@@ -5180,6 +5070,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/de-gaulle-liberte/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Not Alone",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/not-alone",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "not alone"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/not-alone/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
