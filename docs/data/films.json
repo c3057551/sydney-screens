@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-26T07:02+10:00",
+ "generated_at": "2026-09-27T06:35+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-26T07:01+10:00",
-   "films": 466
+   "fetched_at": "2026-09-27T06:35+10:00",
+   "films": 462
   },
   {
    "id": "orpheum",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "resident evil"
-  },
-  {
-   "title": "35mm Vanilla Sky",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-vanilla-sky-2001",
-   "poster": "",
-   "rating": "",
-   "year": 2001,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "vanilla sky"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-vanilla-sky-2001/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "La La Land",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/la-la-land-2016",
-   "poster": "",
-   "rating": "",
-   "year": 2016,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "la la land"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/la-la-land-2016/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm Minority Report",
