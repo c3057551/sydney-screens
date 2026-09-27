@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-27T06:35+10:00",
+ "generated_at": "2026-09-28T06:47+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-27T06:35+10:00",
-   "films": 462
+   "fetched_at": "2026-09-28T06:46+10:00",
+   "films": 460
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "resident evil"
-  },
-  {
-   "title": "35mm Minority Report",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-minority-report-2002",
-   "poster": "",
-   "rating": "",
-   "year": 2002,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "minority report"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-minority-report-2002/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Collateral",
