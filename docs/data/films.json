@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-28T06:47+10:00",
+ "generated_at": "2026-09-29T08:53+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-28T06:46+10:00",
-   "films": 460
+   "fetched_at": "2026-09-29T08:53+10:00",
+   "films": 466
   },
   {
    "id": "orpheum",
@@ -84,6 +84,28 @@
  ],
  "films": [
   {
+   "title": "Resident Evil",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/resident-evil",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "resident evil"
+  },
+  {
+   "title": "Heart of the Beast",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/heart-of-the-beast",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "heart of the beast"
+  },
+  {
    "title": "Verity",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/verity",
@@ -104,72 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "digger"
-  },
-  {
-   "title": "Heart of the Beast",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/heart-of-the-beast",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "heart of the beast"
-  },
-  {
-   "title": "Resident Evil",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/resident-evil",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "resident evil"
-  },
-  {
-   "title": "Collateral",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/collateral-2004",
-   "poster": "",
-   "rating": "",
-   "year": 2004,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "collateral"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/collateral-2004/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Apartment",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-apartment-1960",
-   "poster": "",
-   "rating": "",
-   "year": 1960,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the apartment"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-apartment-1960/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Edge of Tomorrow",
@@ -1030,6 +986,28 @@
    "group": "add reminder"
   },
   {
+   "title": "JIFF: A Burning Man",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-a-burning-man",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jiff a burning man"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/jiff-a-burning-man/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "JIFF: A Man Of His Time",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/jiff-a-man-of-his-time",
@@ -1624,6 +1602,28 @@
    "group": "add reminder"
   },
   {
+   "title": "JIFF: Robin Hood: Men in Tights",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-robin-hood-men-in-tights-1993",
+   "poster": "",
+   "rating": "",
+   "year": 1993,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jiff robin hood men in tights"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/jiff-robin-hood-men-in-tights-1993/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "JIFF: Sapiro v. Ford: The Jew Who Sued Henry Ford",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/jiff-sapiro-v-ford-the-jew-who-sued-henry-ford",
@@ -2034,6 +2034,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/jiff-we-met-at-grossingers/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "JIFF: Where To?",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-where-to",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jiff where to"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/jiff-where-to/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3846,6 +3868,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Videodrome",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/videodrome-1983",
+   "poster": "",
+   "rating": "",
+   "year": 1983,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "videodrome"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/videodrome-1983/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "35mm Crouching Tiger, Hidden Dragon",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/35mm-crouching-tiger-hidden-dragon-2000",
@@ -4212,6 +4256,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/sunny-dancer/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Fly",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-fly-1986",
+   "poster": "",
+   "rating": "",
+   "year": 1986,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the fly"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-fly-1986/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
