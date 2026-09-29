@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-29T08:53+10:00",
+ "generated_at": "2026-09-30T07:47+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-29T08:53+10:00",
-   "films": 466
+   "fetched_at": "2026-09-30T07:47+10:00",
+   "films": 464
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "digger"
-  },
-  {
-   "title": "Edge of Tomorrow",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/edge-of-tomorrow-2014",
-   "poster": "",
-   "rating": "",
-   "year": 2014,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "edge of tomorrow"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/edge-of-tomorrow-2014/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "A Short Film About Love",
