@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-30T07:47+10:00",
+ "generated_at": "2026-10-01T07:49+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-09-30T07:47+10:00",
-   "films": 464
+   "fetched_at": "2026-10-01T07:48+10:00",
+   "films": 456
   },
   {
    "id": "orpheum",
@@ -106,17 +106,6 @@
    "group": "heart of the beast"
   },
   {
-   "title": "Verity",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/verity",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "verity"
-  },
-  {
    "title": "Digger",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/digger",
@@ -128,92 +117,15 @@
    "group": "digger"
   },
   {
-   "title": "A Short Film About Love",
+   "title": "Verity",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/a-short-film-about-love-1988",
-   "poster": "",
-   "rating": "",
-   "year": 1988,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "a short film about love"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/a-short-film-about-love-1988/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/verity",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Beware Boi\u00fana",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/beware-boiuna",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "beware boiuna"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/beware-boiuna/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/digger/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "NT Live: The Misanthrope",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/nt-live-the-misanthrope",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "nt live the misanthrope"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/nt-live-the-misanthrope/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/verity/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "verity"
   },
   {
    "title": "35mm Mars Attacks!",
