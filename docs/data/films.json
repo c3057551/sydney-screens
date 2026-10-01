@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-01T07:49+10:00",
+ "generated_at": "2026-10-02T08:17+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-01T07:48+10:00",
+   "fetched_at": "2026-10-02T08:16+10:00",
    "films": 456
   },
   {
@@ -106,17 +106,6 @@
    "group": "heart of the beast"
   },
   {
-   "title": "Digger",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/digger",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "digger"
-  },
-  {
    "title": "Verity",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/verity",
@@ -128,26 +117,15 @@
    "group": "verity"
   },
   {
-   "title": "35mm Mars Attacks!",
+   "title": "Digger",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-mars-attacks-1996",
-   "poster": "",
-   "rating": "",
-   "year": 1996,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "mars attacks"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-mars-attacks-1996/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/digger",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
+   "group": "digger"
   },
   {
    "title": "A Place in the Sun",
@@ -1374,6 +1352,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/jiff-marianas-room/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "JIFF: Matchmaking 3",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-matchmaking-3",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jiff matchmaking 3"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/jiff-matchmaking-3/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3626,28 +3626,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Chili Finger",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/chili-finger",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "chili finger"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/chili-finger/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Disney\u2019s Hexed",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
@@ -4638,28 +4616,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Elsinore",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/elsinore",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "elsinore"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/elsinore/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Fjord",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/fjord",
@@ -4718,6 +4674,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/tangles/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Elsinore",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/elsinore",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "elsinore"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/elsinore/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -4938,6 +4916,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-la-fanciulla-del-west/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Chili Finger",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/chili-finger",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "chili finger"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/chili-finger/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
