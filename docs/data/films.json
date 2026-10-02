@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-02T08:17+10:00",
+ "generated_at": "2026-10-03T07:45+10:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-02T08:16+10:00",
-   "films": 456
+   "fetched_at": "2026-10-03T07:45+10:00",
+   "films": 450
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "resident evil"
   },
   {
-   "title": "Heart of the Beast",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/heart-of-the-beast",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "heart of the beast"
-  },
-  {
    "title": "Verity",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/verity",
@@ -117,6 +106,17 @@
    "group": "verity"
   },
   {
+   "title": "Heart of the Beast",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/heart-of-the-beast",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "heart of the beast"
+  },
+  {
    "title": "Digger",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/digger",
@@ -126,72 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "digger"
-  },
-  {
-   "title": "A Place in the Sun",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/a-place-in-the-sun-1951",
-   "poster": "",
-   "rating": "",
-   "year": 1951,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "a place in the sun"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/a-place-in-the-sun-1951/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Mulan",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/mulan-1998",
-   "poster": "",
-   "rating": "",
-   "year": 1998,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "mulan"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/mulan-1998/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Stalker",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/stalker-1979",
-   "poster": "",
-   "rating": "",
-   "year": 1979,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "stalker"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/stalker-1979/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "The Sound of Music",
