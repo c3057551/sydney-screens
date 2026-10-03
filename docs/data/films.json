@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-03T07:45+10:00",
+ "generated_at": "2026-10-04T07:32+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-03T07:45+10:00",
-   "films": 450
+   "fetched_at": "2026-10-04T07:32+11:00",
+   "films": 448
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "digger"
-  },
-  {
-   "title": "The Sound of Music",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-sound-of-music-1965",
-   "poster": "",
-   "rating": "",
-   "year": 1965,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the sound of music"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-sound-of-music-1965/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "10 Things I Hate About You",
