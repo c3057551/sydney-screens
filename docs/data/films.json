@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-06T10:39+11:00",
+ "generated_at": "2026-10-07T09:14+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-06T10:39+11:00",
-   "films": 461
+   "fetched_at": "2026-10-07T09:14+11:00",
+   "films": 458
   },
   {
    "id": "orpheum",
@@ -106,17 +106,6 @@
    "group": "digger"
   },
   {
-   "title": "Resident Evil",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/resident-evil",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "resident evil"
-  },
-  {
    "title": "The Social Reckoning",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-social-reckoning",
@@ -128,48 +117,15 @@
    "group": "the social reckoning"
   },
   {
-   "title": "Jack Johnson: SURFILMUSIC",
+   "title": "Other Mommy",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jack-johnson-surfilmusic",
+   "url": "https://www.ritzcinemas.com.au/movies/other-mommy",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "jack johnson surfilmusic"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/jack-johnson-surfilmusic/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Queen Budapest",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/queen-budapest",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "queen budapest"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/queen-budapest/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "other mommy"
   },
   {
    "title": "Lomu",
@@ -214,17 +170,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Other Mommy",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/other-mommy",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "other mommy"
   },
   {
    "title": "Add Reminder",
@@ -2375,6 +2320,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/evil-dead-trap-1988/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Everest: The Other Side",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/everest-the-other-side",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "everest the other side"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/everest-the-other-side/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
