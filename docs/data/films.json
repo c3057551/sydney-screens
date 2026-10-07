@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-07T09:14+11:00",
+ "generated_at": "2026-10-08T09:36+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-07T09:14+11:00",
-   "films": 458
+   "fetched_at": "2026-10-08T09:35+11:00",
+   "films": 447
   },
   {
    "id": "orpheum",
@@ -84,6 +84,17 @@
  ],
  "films": [
   {
+   "title": "The Social Reckoning",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-social-reckoning",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the social reckoning"
+  },
+  {
    "title": "Verity",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/verity",
@@ -106,136 +117,15 @@
    "group": "digger"
   },
   {
-   "title": "The Social Reckoning",
+   "title": "La Bola Negra",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-social-reckoning",
+   "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the social reckoning"
-  },
-  {
-   "title": "Other Mommy",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/other-mommy",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "other mommy"
-  },
-  {
-   "title": "Lomu",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/lomu",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "lomu"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/lomu/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "On the Sea",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/on-the-sea",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "on the sea"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/on-the-sea/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/other-mommy/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Stitch Head",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/stitch-head",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "stitch head"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/stitch-head/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Double Life of V\u00e9ronique",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-double-life-of-veronique-1991",
-   "poster": "",
-   "rating": "",
-   "year": 1991,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the double life of veronique"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-double-life-of-veronique-1991/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-social-reckoning/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "la bola negra"
   },
   {
    "title": "35mm The Silence of the Lambs",
@@ -456,17 +346,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "La Bola Negra",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "la bola negra"
   },
   {
    "title": "Add Reminder",
