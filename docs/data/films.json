@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-08T09:36+11:00",
+ "generated_at": "2026-10-09T09:48+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-08T09:35+11:00",
-   "films": 447
+   "fetched_at": "2026-10-09T09:47+11:00",
+   "films": 467
   },
   {
    "id": "orpheum",
@@ -84,6 +84,17 @@
  ],
  "films": [
   {
+   "title": "La Bola Negra",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "la bola negra"
+  },
+  {
    "title": "The Social Reckoning",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-social-reckoning",
@@ -115,61 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "digger"
-  },
-  {
-   "title": "La Bola Negra",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "la bola negra"
-  },
-  {
-   "title": "35mm The Silence of the Lambs",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-the-silence-of-the-lambs-1991",
-   "poster": "",
-   "rating": "",
-   "year": 1991,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the silence of the lambs"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-the-silence-of-the-lambs-1991/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The History of Concrete",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-history-of-concrete",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the history of concrete"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-history-of-concrete/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Duck Soup",
@@ -340,6 +296,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/adventure-reels-tour-2026/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "35mm La Bola Negra",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "la bola negra"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-la-bola-negra/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2955,6 +2933,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Parkway Drive: Home",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/parkway-drive-home",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "parkway drive home"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/parkway-drive-home/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "The Brood",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-brood-1979",
@@ -3035,6 +3035,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/a-streetcar-named-desire-1951/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Festive Fun with Peppa",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/festive-fun-with-peppa",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "festive fun with peppa"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/festive-fun-with-peppa/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3189,6 +3211,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/bad-apples/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Blue Heron",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/blue-heron",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "blue heron"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/blue-heron/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3549,6 +3593,28 @@
    "group": "add reminder"
   },
   {
+   "title": "The Further Mis-Adventures of Cliff Booth",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-further-mis-adventures-of-cliff-booth",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the further mis adventures of cliff booth"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-further-mis-adventures-of-cliff-booth/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "The Incomer",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-incomer",
@@ -3563,6 +3629,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-incomer/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Only Living Pickpocket in New York",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-only-living-pickpocket-in-new-york",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the only living pickpocket in new york"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-only-living-pickpocket-in-new-york/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3981,6 +4069,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/sunny-dancer/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Fence",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-fence",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the fence"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-fence/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -4495,6 +4605,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Paper Tiger",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/paper-tiger",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "paper tiger"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/paper-tiger/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Elsinore",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/elsinore",
@@ -4671,6 +4803,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Narnia: The Magician's Nephew",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/narnia-the-magicians-nephew",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "narnia the magician s nephew"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/narnia-the-magicians-nephew/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Remain",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/remain",
@@ -4685,6 +4839,50 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/remain/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Tender Loving Care",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/tender-loving-care",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "tender loving care"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/tender-loving-care/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Josephine",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/josephine",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "josephine"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/josephine/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -4729,6 +4927,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/cocomelon-the-movie/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "K-POP: The Debut",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/k-pop-the-debut",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "k pop the debut"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/k-pop-the-debut/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
