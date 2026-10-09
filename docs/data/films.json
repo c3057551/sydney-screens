@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-09T09:48+11:00",
+ "generated_at": "2026-10-10T09:10+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-09T09:47+11:00",
-   "films": 467
+   "fetched_at": "2026-10-10T09:10+11:00",
+   "films": 464
   },
   {
    "id": "orpheum",
@@ -95,6 +95,17 @@
    "group": "la bola negra"
   },
   {
+   "title": "35mm La Bola Negra",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "la bola negra"
+  },
+  {
    "title": "The Social Reckoning",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-social-reckoning",
@@ -115,83 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "verity"
-  },
-  {
-   "title": "Digger",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/digger",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "digger"
-  },
-  {
-   "title": "Duck Soup",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/duck-soup-1933",
-   "poster": "",
-   "rating": "",
-   "year": 1933,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "duck soup"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/duck-soup-1933/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Space Jam",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/space-jam-1996",
-   "poster": "",
-   "rating": "",
-   "year": 1996,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "space jam"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/space-jam-1996/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Speed Racer",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/speed-racer-2008",
-   "poster": "",
-   "rating": "",
-   "year": 2008,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "speed racer"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/speed-racer-2008/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Jebediah: Are We Ok?",
@@ -302,17 +236,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "35mm La Bola Negra",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "la bola negra"
   },
   {
    "title": "Add Reminder",
@@ -461,6 +384,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/labyrinth-40th-anniversary-live-show-screening/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Ranabaali",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/ranabaali",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "ranabaali"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/ranabaali/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1979,6 +1924,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/35mm-the-blair-witch-project-1999/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Ali G: Who Iz I?",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/ali-g-who-iz-i",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "ali g who iz i"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/ali-g-who-iz-i/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
