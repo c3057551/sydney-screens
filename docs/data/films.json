@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-10T09:10+11:00",
+ "generated_at": "2026-10-11T08:05+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-10T09:10+11:00",
-   "films": 464
+   "fetched_at": "2026-10-11T08:04+11:00",
+   "films": 460
   },
   {
    "id": "orpheum",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "verity"
-  },
-  {
-   "title": "Jebediah: Are We Ok?",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jebediah-are-we-ok",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jebediah are we ok"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/jebediah-are-we-ok/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "School of Rock",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/school-of-rock-2003",
-   "poster": "",
-   "rating": "",
-   "year": 2003,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "school of rock"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/school-of-rock-2003/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Hadestown: The Musical",
