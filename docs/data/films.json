@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-11T08:05+11:00",
+ "generated_at": "2026-10-12T08:25+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-11T08:04+11:00",
-   "films": 460
+   "fetched_at": "2026-10-12T08:24+11:00",
+   "films": 458
   },
   {
    "id": "orpheum",
@@ -106,26 +106,26 @@
    "group": "la bola negra"
   },
   {
-   "title": "The Social Reckoning",
+   "title": "JIFF: Just an Illusion",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-social-reckoning",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the social reckoning"
+   "group": "jiff just an illusion"
   },
   {
-   "title": "Verity",
+   "title": "Tenzing",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/verity",
+   "url": "https://www.ritzcinemas.com.au/movies/tenzing",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "verity"
+   "group": "tenzing"
   },
   {
    "title": "Hadestown: The Musical",
@@ -258,17 +258,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Tenzing",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tenzing",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tenzing"
   },
   {
    "title": "Add Reminder",
@@ -852,17 +841,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "JIFF: Just an Illusion",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jiff just an illusion"
   },
   {
    "title": "Add Reminder",
