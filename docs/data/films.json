@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-13T11:05+11:00",
+ "generated_at": "2026-10-14T09:14+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-13T11:04+11:00",
-   "films": 456
+   "fetched_at": "2026-10-14T09:14+11:00",
+   "films": 454
   },
   {
    "id": "orpheum",
@@ -84,17 +84,6 @@
  ],
  "films": [
   {
-   "title": "Verity",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/verity",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "verity"
-  },
-  {
    "title": "La Bola Negra",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
@@ -104,17 +93,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "la bola negra"
-  },
-  {
-   "title": "Digger",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/digger",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "digger"
   },
   {
    "title": "Sense and Sensibility",
@@ -128,26 +106,26 @@
    "group": "sense and sensibility"
   },
   {
-   "title": "Adventure Reels Tour 2026",
+   "title": "Verity",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/adventure-reels-tour-2026",
+   "url": "https://www.ritzcinemas.com.au/movies/verity",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "adventure reels tour 2026"
+   "group": "verity"
   },
   {
-   "title": "Add Reminder",
+   "title": "The Social Reckoning",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/adventure-reels-tour-2026/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/the-social-reckoning",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
+   "group": "the social reckoning"
   },
   {
    "title": "Add Reminder",
@@ -2135,7 +2113,7 @@
    "url": "https://www.ritzcinemas.com.au/movies/ken-russells-the-devils-1971",
    "poster": "",
    "rating": "",
-   "year": 1971,
+   "year": null,
    "coming_soon": true,
    "sessions": [],
    "group": "the devils"
