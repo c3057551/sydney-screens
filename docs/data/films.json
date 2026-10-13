@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-12T08:25+11:00",
+ "generated_at": "2026-10-13T11:05+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-12T08:24+11:00",
-   "films": 458
+   "fetched_at": "2026-10-13T11:04+11:00",
+   "films": 456
   },
   {
    "id": "orpheum",
@@ -84,6 +84,17 @@
  ],
  "films": [
   {
+   "title": "Verity",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/verity",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "verity"
+  },
+  {
    "title": "La Bola Negra",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
@@ -95,81 +106,26 @@
    "group": "la bola negra"
   },
   {
-   "title": "35mm La Bola Negra",
+   "title": "Digger",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
+   "url": "https://www.ritzcinemas.com.au/movies/digger",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "la bola negra"
+   "group": "digger"
   },
   {
-   "title": "JIFF: Just an Illusion",
+   "title": "Sense and Sensibility",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
+   "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "jiff just an illusion"
-  },
-  {
-   "title": "Tenzing",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tenzing",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tenzing"
-  },
-  {
-   "title": "Hadestown: The Musical",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/hadestown-the-musical",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "hadestown the musical"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/hadestown-the-musical/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Proposal",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-proposal-2009",
-   "poster": "",
-   "rating": "",
-   "year": 2009,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the proposal"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-proposal-2009/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "sense and sensibility"
   },
   {
    "title": "Adventure Reels Tour 2026",
@@ -196,17 +152,6 @@
   {
    "title": "Add Reminder",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-la-bola-negra/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/la-bola-negra/reminder.ics",
    "poster": "",
    "rating": "",
@@ -214,17 +159,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Sense and Sensibility",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "sense and sensibility"
   },
   {
    "title": "Add Reminder",
@@ -258,6 +192,17 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
+  },
+  {
+   "title": "Tenzing",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/tenzing",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "tenzing"
   },
   {
    "title": "Add Reminder",
@@ -841,6 +786,17 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
+  },
+  {
+   "title": "JIFF: Just an Illusion",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jiff just an illusion"
   },
   {
    "title": "Add Reminder",
@@ -1690,6 +1646,28 @@
    "group": "add reminder"
   },
   {
+   "title": "35mm La Bola Negra",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "la bola negra"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-la-bola-negra/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Clayface",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/clayface",
@@ -2416,28 +2394,6 @@
    "group": "add reminder"
   },
   {
-   "title": "COMMON\u00a0WEALTH",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/common-wealth",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "common wealth"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/common-wealth/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Mary Poppins",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/mary-poppins-1964",
@@ -2892,6 +2848,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/yellow-letters/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "You Can See Everything",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "you can see everything"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/you-can-see-everything/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
