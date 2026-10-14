@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-14T09:14+11:00",
+ "generated_at": "2026-10-15T08:14+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-14T09:14+11:00",
-   "films": 454
+   "fetched_at": "2026-10-15T08:14+11:00",
+   "films": 446
   },
   {
    "id": "orpheum",
@@ -106,72 +106,6 @@
    "group": "sense and sensibility"
   },
   {
-   "title": "Verity",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/verity",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "verity"
-  },
-  {
-   "title": "The Social Reckoning",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-social-reckoning",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the social reckoning"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/la-bola-negra/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/sense-and-sensibility/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Street Fighter",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/street-fighter",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "street fighter"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/street-fighter/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Tenzing",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/tenzing",
@@ -183,37 +117,15 @@
    "group": "tenzing"
   },
   {
-   "title": "Add Reminder",
+   "title": "Verity",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/tenzing/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/verity",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Three Colours: Blue",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/three-colours-blue-1993",
-   "poster": "",
-   "rating": "",
-   "year": 1993,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "three colours blue"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/three-colours-blue-1993/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "verity"
   },
   {
    "title": "35mm L\u00e9on: The Professional",
