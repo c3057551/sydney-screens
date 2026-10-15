@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-15T08:14+11:00",
+ "generated_at": "2026-10-16T07:53+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-15T08:14+11:00",
-   "films": 446
+   "fetched_at": "2026-10-16T07:52+11:00",
+   "films": 442
   },
   {
    "id": "orpheum",
@@ -106,92 +106,26 @@
    "group": "sense and sensibility"
   },
   {
-   "title": "Tenzing",
+   "title": "35mm La Bola Negra",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tenzing",
+   "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "tenzing"
+   "group": "la bola negra"
   },
   {
-   "title": "Verity",
+   "title": "Wildwood",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/verity",
+   "url": "https://www.ritzcinemas.com.au/movies/wildwood",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "verity"
-  },
-  {
-   "title": "35mm L\u00e9on: The Professional",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-leon-the-professional-1994",
-   "poster": "",
-   "rating": "",
-   "year": 1994,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "leon the professional"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-leon-the-professional-1994/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Labyrinth \u2013 40th Anniversary Live Show & Screening",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/labyrinth-40th-anniversary-live-show-screening",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "labyrinth 40th anniversary live show screening"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/labyrinth-40th-anniversary-live-show-screening/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Ranabaali",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/ranabaali",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "ranabaali"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/ranabaali/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "wildwood"
   },
   {
    "title": "A Goofy Movie",
@@ -1536,17 +1470,6 @@
    "group": "add reminder"
   },
   {
-   "title": "35mm La Bola Negra",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "la bola negra"
-  },
-  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/35mm-la-bola-negra/reminder.ics",
@@ -1688,17 +1611,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Wildwood",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wildwood",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "wildwood"
   },
   {
    "title": "Add Reminder",
@@ -4770,6 +4682,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Ocean Film Festival World Tour 2027",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/ocean-film-festival-world-tour-2027",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "ocean film festival world tour 2027"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/ocean-film-festival-world-tour-2027/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "500 Miles",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/500-miles",
@@ -4916,6 +4850,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/exhibition-on-screen-monet/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Banff Mountain Film Festival 2027",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/banff-mountain-film-festival-2027",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "banff mountain film festival 2027"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/banff-mountain-film-festival-2027/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
