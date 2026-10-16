@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-16T07:53+11:00",
+ "generated_at": "2026-10-17T07:26+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-16T07:52+11:00",
-   "films": 442
+   "fetched_at": "2026-10-17T07:26+11:00",
+   "films": 436
   },
   {
    "id": "orpheum",
@@ -84,9 +84,9 @@
  ],
  "films": [
   {
-   "title": "La Bola Negra",
+   "title": "35mm La Bola Negra",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
+   "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
    "poster": "",
    "rating": "",
    "year": null,
@@ -95,20 +95,9 @@
    "group": "la bola negra"
   },
   {
-   "title": "Sense and Sensibility",
+   "title": "La Bola Negra",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "sense and sensibility"
-  },
-  {
-   "title": "35mm La Bola Negra",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
+   "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
    "poster": "",
    "rating": "",
    "year": null,
@@ -128,92 +117,15 @@
    "group": "wildwood"
   },
   {
-   "title": "A Goofy Movie",
+   "title": "Sense and Sensibility",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/a-goofy-movie-1995",
-   "poster": "",
-   "rating": "",
-   "year": 1995,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "a goofy movie"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/a-goofy-movie-1995/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Akira",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/akira-1988",
-   "poster": "",
-   "rating": "",
-   "year": 1988,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "akira"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/akira-1988/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "BluePrint - Iconic Jazz infused with the Blues",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/blueprint-iconic-jazz-infused-with-the-blues",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "blueprint iconic jazz infused with the blues"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/blueprint-iconic-jazz-infused-with-the-blues/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Gaslight",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/gaslight-1944",
-   "poster": "",
-   "rating": "",
-   "year": 1944,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "gaslight"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/gaslight-1944/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "sense and sensibility"
   },
   {
    "title": "JIFF: A Burning Man",
@@ -2694,6 +2606,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/35mm-casablanca-1942/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "SHED",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/shed",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "shed"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/shed/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
