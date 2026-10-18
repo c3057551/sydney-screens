@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-18T07:01+11:00",
+ "generated_at": "2026-10-19T07:01+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-18T07:00+11:00",
+   "fetched_at": "2026-10-19T07:00+11:00",
    "films": 324
   },
   {
@@ -106,26 +106,26 @@
    "group": "wildwood"
   },
   {
-   "title": "La Bola Negra",
+   "title": "JIFF: Just an Illusion",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/la-bola-negra",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "la bola negra"
+   "group": "jiff just an illusion"
   },
   {
-   "title": "Sense and Sensibility",
+   "title": "JIFF: The Heroes of the Louvre",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-the-heroes-of-the-louvre",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "sense and sensibility"
+   "group": "jiff the heroes of the louvre"
   },
   {
    "title": "Bob & Carol & Ted & Alice",
