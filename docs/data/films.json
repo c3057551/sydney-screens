@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-19T07:01+11:00",
+ "generated_at": "2026-10-20T08:57+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-19T07:00+11:00",
-   "films": 324
+   "fetched_at": "2026-10-20T08:57+11:00",
+   "films": 330
   },
   {
    "id": "orpheum",
@@ -84,6 +84,39 @@
  ],
  "films": [
   {
+   "title": "Klara and the Sun",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/klara-and-the-sun",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "klara and the sun"
+  },
+  {
+   "title": "Sense and Sensibility",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "sense and sensibility"
+  },
+  {
+   "title": "Verity",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/verity",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "verity"
+  },
+  {
    "title": "35mm La Bola Negra",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
@@ -93,61 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "la bola negra"
-  },
-  {
-   "title": "Wildwood",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wildwood",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "wildwood"
-  },
-  {
-   "title": "JIFF: Just an Illusion",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jiff just an illusion"
-  },
-  {
-   "title": "JIFF: The Heroes of the Louvre",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jiff-the-heroes-of-the-louvre",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jiff the heroes of the louvre"
-  },
-  {
-   "title": "Bob & Carol & Ted & Alice",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/bob-carol-ted-alice-1969",
-   "poster": "",
-   "rating": "",
-   "year": 1969,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "bob carol ted alice"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/bob-carol-ted-alice-1969/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Add Reminder",
@@ -203,17 +181,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Klara and the Sun",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/klara-and-the-sun",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "klara and the sun"
   },
   {
    "title": "Add Reminder",
@@ -293,6 +260,17 @@
    "group": "add reminder"
   },
   {
+   "title": "Wildwood",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/wildwood",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "wildwood"
+  },
+  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/wildwood/reminder.ics",
@@ -340,28 +318,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/ali-g-who-iz-i/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Perfect Blue",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/perfect-blue-1997",
-   "poster": "",
-   "rating": "",
-   "year": 1997,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "perfect blue"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/perfect-blue-1997/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -978,6 +934,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/shivers-1975/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Policewoman",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-policewoman",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the policewoman"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-policewoman/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1616,6 +1594,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/blue-heron/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Chopin",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/chopin",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "chopin"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/chopin/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2504,6 +2504,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Yesterday Island",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/yesterday-island",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "yesterday island"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/yesterday-island/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "35mm Pan's Labyrinth",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/35mm-pans-labyrinth-2006",
@@ -2988,6 +3010,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Artificial",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/artificial",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "artificial"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/artificial/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Paper Tiger",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/paper-tiger",
@@ -3420,6 +3464,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/500-miles/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Exorcist: Martyrs",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-exorcist-martyrs",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the exorcist martyrs"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-exorcist-martyrs/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
