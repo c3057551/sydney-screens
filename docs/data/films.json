@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-20T08:57+11:00",
+ "generated_at": "2026-10-21T08:11+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-20T08:57+11:00",
-   "films": 330
+   "fetched_at": "2026-10-21T08:11+11:00",
+   "films": 327
   },
   {
    "id": "orpheum",
@@ -95,6 +95,17 @@
    "group": "klara and the sun"
   },
   {
+   "title": "The Devils",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/ken-russells-the-devils-1971",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the devils"
+  },
+  {
    "title": "Sense and Sensibility",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
@@ -106,15 +117,15 @@
    "group": "sense and sensibility"
   },
   {
-   "title": "Verity",
+   "title": "Primetime",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/verity",
+   "url": "https://www.ritzcinemas.com.au/movies/primetime",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "verity"
+   "group": "primetime"
   },
   {
    "title": "35mm La Bola Negra",
@@ -546,17 +557,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Primetime",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/primetime",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "primetime"
-  },
-  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/primetime/reminder.ics",
@@ -566,17 +566,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "The Devils",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/ken-russells-the-devils-1971",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the devils"
   },
   {
    "title": "Add Reminder",
@@ -648,28 +637,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/35mm-ringu-1998/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Craft",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-craft-1996-2020",
-   "poster": "",
-   "rating": "",
-   "year": 1996,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the craft"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-craft-1996-2020/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2812,6 +2779,28 @@
    "group": "add reminder"
   },
   {
+   "title": "A Talent for Murder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/a-talent-for-murder",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "a talent for murder"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/a-talent-for-murder/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Jumanji: Open World",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/jumanji-open-world",
@@ -2980,28 +2969,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/exhibition-on-screen-renoir-love/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "A Talent for Murder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/a-talent-for-murder",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "a talent for murder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/a-talent-for-murder/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
