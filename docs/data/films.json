@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-21T08:11+11:00",
+ "generated_at": "2026-10-22T08:11+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-21T08:11+11:00",
-   "films": 327
+   "fetched_at": "2026-10-22T08:10+11:00",
+   "films": 311
   },
   {
    "id": "orpheum",
@@ -84,6 +84,17 @@
  ],
  "films": [
   {
+   "title": "You Can See Everything",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "you can see everything"
+  },
+  {
    "title": "Klara and the Sun",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/klara-and-the-sun",
@@ -106,17 +117,6 @@
    "group": "the devils"
   },
   {
-   "title": "Sense and Sensibility",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/sense-and-sensibility",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "sense and sensibility"
-  },
-  {
    "title": "Primetime",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/primetime",
@@ -126,171 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "primetime"
-  },
-  {
-   "title": "35mm La Bola Negra",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-la-bola-negra",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "la bola negra"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-la-bola-negra/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Clayface",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/clayface",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "clayface"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/clayface/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Fallen Angels by No\u00ebl Coward",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/fallen-angels-by-noel-coward",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "fallen angels by noel coward"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/fallen-angels-by-noel-coward/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/klara-and-the-sun/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Possible Love",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/possible-love",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "possible love"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/possible-love/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Steal This Story, Please!",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/steal-this-story-please",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "steal this story please"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/steal-this-story-please/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Three Colours: White",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/three-colours-white-1994",
-   "poster": "",
-   "rating": "",
-   "year": 1994,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "three colours white"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/three-colours-white-1994/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Wildwood",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wildwood",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "wildwood"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/wildwood/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm The Blair Witch Project",
@@ -1281,17 +1116,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "You Can See Everything",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "you can see everything"
   },
   {
    "title": "Add Reminder",
@@ -3087,28 +2911,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Tangles",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/tangles",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "tangles"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/tangles/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Ice Age: Boiling Point",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/ice-age-boiling-point",
@@ -3123,6 +2925,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/ice-age-boiling-point/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Tangles",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/tangles",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "tangles"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/tangles/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
