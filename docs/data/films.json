@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-22T08:11+11:00",
+ "generated_at": "2026-10-23T08:08+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-22T08:10+11:00",
-   "films": 311
+   "fetched_at": "2026-10-23T08:08+11:00",
+   "films": 309
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "you can see everything"
   },
   {
-   "title": "Klara and the Sun",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/klara-and-the-sun",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "klara and the sun"
-  },
-  {
    "title": "The Devils",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/ken-russells-the-devils-1971",
@@ -117,6 +106,17 @@
    "group": "the devils"
   },
   {
+   "title": "Klara and the Sun",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/klara-and-the-sun",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "klara and the sun"
+  },
+  {
    "title": "Primetime",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/primetime",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "primetime"
-  },
-  {
-   "title": "35mm The Blair Witch Project",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-the-blair-witch-project-1999",
-   "poster": "",
-   "rating": "",
-   "year": 1999,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the blair witch project"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-the-blair-witch-project-1999/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Ali G: Who Iz I?",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/ali-g-who-iz-i",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "ali g who iz i"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/ali-g-who-iz-i/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Psycho",
@@ -2155,6 +2111,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/hard-boiled-1992/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Heated Rivalry \u2013 A Special Marathon Event",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/heated-rivalry-season-one-marathon",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "heated rivalry a special marathon event"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/heated-rivalry-season-one-marathon/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
