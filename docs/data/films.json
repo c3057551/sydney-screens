@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-23T08:08+11:00",
+ "generated_at": "2026-10-24T07:55+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-23T08:08+11:00",
-   "films": 309
+   "fetched_at": "2026-10-24T07:55+11:00",
+   "films": 305
   },
   {
    "id": "orpheum",
@@ -95,6 +95,17 @@
    "group": "you can see everything"
   },
   {
+   "title": "Primetime",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/primetime",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "primetime"
+  },
+  {
    "title": "The Devils",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/ken-russells-the-devils-1971",
@@ -115,83 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "klara and the sun"
-  },
-  {
-   "title": "Primetime",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/primetime",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "primetime"
-  },
-  {
-   "title": "Psycho",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/psycho-1960",
-   "poster": "",
-   "rating": "",
-   "year": 1960,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "psycho"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/psycho-1960/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Addams Family",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-addams-family-1991",
-   "poster": "",
-   "rating": "",
-   "year": 1991,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the addams family"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-addams-family-1991/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Wailing",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-wailing-2016",
-   "poster": "",
-   "rating": "",
-   "year": 2016,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the wailing"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-wailing-2016/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Cure",
@@ -1275,6 +1209,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-assassin-2015/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "JIFF: GIANT - The Play",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-giant---the-play",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jiff giant the play"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/jiff-giant---the-play/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
