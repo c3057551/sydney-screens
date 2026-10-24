@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-24T07:55+11:00",
+ "generated_at": "2026-10-25T07:08+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-24T07:55+11:00",
-   "films": 305
+   "fetched_at": "2026-10-25T07:07+11:00",
+   "films": 301
   },
   {
    "id": "orpheum",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "klara and the sun"
-  },
-  {
-   "title": "Cure",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/cure-1997",
-   "poster": "",
-   "rating": "",
-   "year": 1997,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "cure"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/cure-1997/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Little Shop Of Horrors",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/little-shop-of-horrors-1986",
-   "poster": "",
-   "rating": "",
-   "year": 1986,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "little shop of horrors"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/little-shop-of-horrors-1986/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Jigoku",
