@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-25T07:08+11:00",
+ "generated_at": "2026-10-26T07:21+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-25T07:07+11:00",
+   "fetched_at": "2026-10-26T07:19+11:00",
    "films": 301
   },
   {
@@ -59,7 +59,7 @@
    "name": "Dendy Newtown",
    "short": "Dendy",
    "ok": false,
-   "error": "flicks: no films parsed for slug 'dendy-newtown'",
+   "error": "404 Client Error: Not Found for url: https://www.flicks.com.au/cinema/dendy-newtown/",
    "fetched_at": "",
    "films": 0
   },
@@ -117,15 +117,15 @@
    "group": "the devils"
   },
   {
-   "title": "Klara and the Sun",
+   "title": "JIFF: Just an Illusion",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/klara-and-the-sun",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "klara and the sun"
+   "group": "jiff just an illusion"
   },
   {
    "title": "Jigoku",
