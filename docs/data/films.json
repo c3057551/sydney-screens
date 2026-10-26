@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-26T07:21+11:00",
+ "generated_at": "2026-10-27T09:14+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-26T07:19+11:00",
-   "films": 301
+   "fetched_at": "2026-10-27T09:13+11:00",
+   "films": 297
   },
   {
    "id": "orpheum",
@@ -59,7 +59,7 @@
    "name": "Dendy Newtown",
    "short": "Dendy",
    "ok": false,
-   "error": "404 Client Error: Not Found for url: https://www.flicks.com.au/cinema/dendy-newtown/",
+   "error": "flicks: no films parsed for slug 'dendy-newtown'",
    "fetched_at": "",
    "films": 0
   },
@@ -95,17 +95,6 @@
    "group": "you can see everything"
   },
   {
-   "title": "Primetime",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/primetime",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "primetime"
-  },
-  {
    "title": "The Devils",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/ken-russells-the-devils-1971",
@@ -117,6 +106,17 @@
    "group": "the devils"
   },
   {
+   "title": "Primetime",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/primetime",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "primetime"
+  },
+  {
    "title": "JIFF: Just an Illusion",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "jiff just an illusion"
-  },
-  {
-   "title": "Jigoku",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jigoku-1960",
-   "poster": "",
-   "rating": "",
-   "year": 1960,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jigoku"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/jigoku-1960/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Practical Magic",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/practical-magic-1998",
-   "poster": "",
-   "rating": "",
-   "year": 1998,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "practical magic"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/practical-magic-1998/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Evil Dead Trap",
