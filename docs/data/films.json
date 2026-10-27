@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-27T09:14+11:00",
+ "generated_at": "2026-10-28T08:46+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-27T09:13+11:00",
-   "films": 297
+   "fetched_at": "2026-10-28T08:45+11:00",
+   "films": 302
   },
   {
    "id": "orpheum",
@@ -84,6 +84,17 @@
  ],
  "films": [
   {
+   "title": "Primetime",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/primetime",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "primetime"
+  },
+  {
    "title": "You Can See Everything",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
@@ -106,48 +117,15 @@
    "group": "the devils"
   },
   {
-   "title": "Primetime",
+   "title": "Pressure",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/primetime",
+   "url": "https://www.ritzcinemas.com.au/movies/pressure",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "primetime"
-  },
-  {
-   "title": "JIFF: Just an Illusion",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jiff just an illusion"
-  },
-  {
-   "title": "Evil Dead Trap",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/evil-dead-trap-1988",
-   "poster": "",
-   "rating": "",
-   "year": 1988,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "evil dead trap"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/evil-dead-trap-1988/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "pressure"
   },
   {
    "title": "Everest: The Other Side",
@@ -170,17 +148,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Pressure",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/pressure",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "pressure"
   },
   {
    "title": "Add Reminder",
@@ -1921,6 +1888,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Violent Night 2",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/violent-night-2",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "violent night 2"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/violent-night-2/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "35mm Taxi Driver",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/35mm-taxi-driver-1976",
@@ -2603,6 +2592,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Club Kid",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/club-kid",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "club kid"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/club-kid/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Prima Facie",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/prima-facie",
@@ -2617,6 +2628,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/prima-facie/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Beekeeper 2",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-beekeeper-2",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the beekeeper 2"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-beekeeper-2/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3167,6 +3200,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/chili-finger/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Man I Love",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-man-i-love",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the man i love"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-man-i-love/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
