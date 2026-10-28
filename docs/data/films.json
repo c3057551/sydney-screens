@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-28T08:46+11:00",
+ "generated_at": "2026-10-29T09:07+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-28T08:45+11:00",
-   "films": 302
+   "fetched_at": "2026-10-29T09:07+11:00",
+   "films": 293
   },
   {
    "id": "orpheum",
@@ -126,105 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "pressure"
-  },
-  {
-   "title": "Everest: The Other Side",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/everest-the-other-side",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "everest the other side"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/everest-the-other-side/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/pressure/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/primetime/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/ken-russells-the-devils-1971/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Housemaid",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-housemaid-1960",
-   "poster": "",
-   "rating": "",
-   "year": 1960,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the housemaid"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-housemaid-1960/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Three Colours: Red",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/three-colours-red-1994",
-   "poster": "",
-   "rating": "",
-   "year": 1994,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "three colours red"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/three-colours-red-1994/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm Ringu",
