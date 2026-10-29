@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-29T09:07+11:00",
+ "generated_at": "2026-10-30T09:22+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-29T09:07+11:00",
-   "films": 293
+   "fetched_at": "2026-10-30T09:22+11:00",
+   "films": 289
   },
   {
    "id": "orpheum",
@@ -84,17 +84,6 @@
  ],
  "films": [
   {
-   "title": "Primetime",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/primetime",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "primetime"
-  },
-  {
    "title": "You Can See Everything",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
@@ -104,6 +93,17 @@
    "coming_soon": true,
    "sessions": [],
    "group": "you can see everything"
+  },
+  {
+   "title": "Primetime",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/primetime",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "primetime"
   },
   {
    "title": "The Devils",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "pressure"
-  },
-  {
-   "title": "35mm Ringu",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-ringu-1998",
-   "poster": "",
-   "rating": "",
-   "year": 1998,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "ringu"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-ringu-1998/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Rocky Horror Picture Show",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-rocky-horror-picture-show-1975",
-   "poster": "",
-   "rating": "",
-   "year": 1975,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the rocky horror picture show"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-rocky-horror-picture-show-1975/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Audition",
@@ -1143,28 +1099,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/scanners-1981/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Echo Chamber",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-echo-chamber",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the echo chamber"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-echo-chamber/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -3079,6 +3013,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-la-fanciulla-del-west/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Echo Chamber",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-echo-chamber",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the echo chamber"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-echo-chamber/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
