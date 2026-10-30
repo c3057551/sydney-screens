@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-30T09:22+11:00",
+ "generated_at": "2026-10-31T08:54+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-30T09:22+11:00",
-   "films": 289
+   "fetched_at": "2026-10-31T08:53+11:00",
+   "films": 277
   },
   {
    "id": "orpheum",
@@ -126,138 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "pressure"
-  },
-  {
-   "title": "Audition",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/audition-2000",
-   "poster": "",
-   "rating": "",
-   "year": 1999,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "audition"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/audition-2000/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Casper",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/casper-1995",
-   "poster": "",
-   "rating": "",
-   "year": 1995,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "casper"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/casper-1995/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Dracula",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/dracula-1931",
-   "poster": "",
-   "rating": "",
-   "year": 1931,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "dracula"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/dracula-1931/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "House",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/house-1977",
-   "poster": "",
-   "rating": "",
-   "year": 1977,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "house"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/house-1977/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Met Opera: Cos\u00ec fan tutte",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/met-opera-cosi-fan-tutte",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "met opera cosi fan tutte"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-cosi-fan-tutte/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Thing",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-thing-1982",
-   "poster": "",
-   "rating": "",
-   "year": 1982,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the thing"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-thing-1982/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Mary Poppins",
