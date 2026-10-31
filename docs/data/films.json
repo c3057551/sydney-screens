@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-31T08:54+11:00",
+ "generated_at": "2026-11-01T07:56+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-10-31T08:53+11:00",
-   "films": 277
+   "fetched_at": "2026-11-01T07:55+11:00",
+   "films": 273
   },
   {
    "id": "orpheum",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "pressure"
-  },
-  {
-   "title": "Mary Poppins",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/mary-poppins-1964",
-   "poster": "",
-   "rating": "",
-   "year": 1964,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "mary poppins"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/mary-poppins-1964/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Noroi: The Curse",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/noroi-the-curse-2005",
-   "poster": "",
-   "rating": "",
-   "year": 2005,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "noroi the curse"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/noroi-the-curse-2005/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "(500) Days of Summer",
