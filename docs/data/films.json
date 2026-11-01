@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-01T07:56+11:00",
+ "generated_at": "2026-11-02T08:38+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-01T07:55+11:00",
+   "fetched_at": "2026-11-02T08:37+11:00",
    "films": 273
   },
   {
@@ -117,15 +117,15 @@
    "group": "the devils"
   },
   {
-   "title": "Pressure",
+   "title": "JIFF: Just an Illusion",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/pressure",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "pressure"
+   "group": "jiff just an illusion"
   },
   {
    "title": "(500) Days of Summer",
