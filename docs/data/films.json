@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-02T08:38+11:00",
+ "generated_at": "2026-11-03T11:26+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-02T08:37+11:00",
-   "films": 273
+   "fetched_at": "2026-11-03T11:25+11:00",
+   "films": 269
   },
   {
    "id": "orpheum",
@@ -106,48 +106,26 @@
    "group": "primetime"
   },
   {
-   "title": "The Devils",
+   "title": "Wicker",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/ken-russells-the-devils-1971",
+   "url": "https://www.ritzcinemas.com.au/movies/wicker",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the devils"
+   "group": "wicker"
   },
   {
-   "title": "JIFF: Just an Illusion",
+   "title": "Wild Horse Nine",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
+   "url": "https://www.ritzcinemas.com.au/movies/wild-horse-nine",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "jiff just an illusion"
-  },
-  {
-   "title": "(500) Days of Summer",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/500-days-of-summer-2009",
-   "poster": "",
-   "rating": "",
-   "year": 2009,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "500 days of summer"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/500-days-of-summer-2009/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "wild horse nine"
   },
   {
    "title": "Godzilla Minus Zero",
@@ -216,17 +194,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Wicker",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wicker",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "wicker"
-  },
-  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/wicker/reminder.ics",
@@ -236,17 +203,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Wild Horse Nine",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wild-horse-nine",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "wild horse nine"
   },
   {
    "title": "Add Reminder",
