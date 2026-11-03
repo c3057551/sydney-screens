@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-03T11:26+11:00",
+ "generated_at": "2026-11-04T09:50+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-03T11:25+11:00",
+   "fetched_at": "2026-11-04T09:49+11:00",
    "films": 269
   },
   {
@@ -1833,28 +1833,6 @@
    "group": "add reminder"
   },
   {
-   "title": "The Angry Birds 3",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-angry-birds-3",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the angry birds 3"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-angry-birds-3/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "The Muppet Christmas Carol",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-muppet-christmas-carol-1992",
@@ -2089,6 +2067,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/jumanji-open-world/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Angry Birds 3",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-angry-birds-3",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the angry birds 3"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-angry-birds-3/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
