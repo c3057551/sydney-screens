@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-04T09:50+11:00",
+ "generated_at": "2026-11-05T10:08+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-04T09:49+11:00",
-   "films": 269
+   "fetched_at": "2026-11-05T10:08+11:00",
+   "films": 261
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "you can see everything"
   },
   {
-   "title": "Primetime",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/primetime",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "primetime"
-  },
-  {
    "title": "Wicker",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/wicker",
@@ -128,92 +117,15 @@
    "group": "wild horse nine"
   },
   {
-   "title": "Godzilla Minus Zero",
+   "title": "Primetime",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/godzilla-minus-zero",
+   "url": "https://www.ritzcinemas.com.au/movies/primetime",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "godzilla minus zero"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/godzilla-minus-zero/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Shivers",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/shivers-1975",
-   "poster": "",
-   "rating": "",
-   "year": 1975,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "shivers"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/shivers-1975/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Policewoman",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-policewoman",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the policewoman"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-policewoman/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/wicker/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/wild-horse-nine/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "primetime"
   },
   {
    "title": "35mm Synecdoche, New York",
