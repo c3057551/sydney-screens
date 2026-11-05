@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-05T10:08+11:00",
+ "generated_at": "2026-11-06T10:12+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-05T10:08+11:00",
-   "films": 261
+   "fetched_at": "2026-11-06T10:12+11:00",
+   "films": 258
   },
   {
    "id": "orpheum",
@@ -106,6 +106,17 @@
    "group": "wicker"
   },
   {
+   "title": "Disney\u2019s Hexed",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "disneys hexed"
+  },
+  {
    "title": "Wild Horse Nine",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/wild-horse-nine",
@@ -115,39 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "wild horse nine"
-  },
-  {
-   "title": "Primetime",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/primetime",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "primetime"
-  },
-  {
-   "title": "35mm Synecdoche, New York",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-synecdoche-new-york-2008",
-   "poster": "",
-   "rating": "",
-   "year": 2008,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "synecdoche new york"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-synecdoche-new-york-2008/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Bad Boy Bubby",
@@ -362,28 +340,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/i-love-boosters/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Parkway Drive: Home",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/parkway-drive-home",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "parkway drive home"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/parkway-drive-home/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -733,6 +689,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Chasing Millions",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/chasing-millions",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "chasing millions"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/chasing-millions/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Chopin",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/chopin",
@@ -995,17 +973,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Disney\u2019s Hexed",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "disneys hexed"
   },
   {
    "title": "Add Reminder",
@@ -2339,6 +2306,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Remain",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/remain",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "remain"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/remain/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Tangles",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/tangles",
@@ -2441,28 +2430,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/narnia-the-magicians-nephew/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Remain",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/remain",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "remain"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/remain/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
