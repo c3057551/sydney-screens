@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-06T10:12+11:00",
+ "generated_at": "2026-11-07T09:39+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-06T10:12+11:00",
-   "films": 258
+   "fetched_at": "2026-11-07T09:39+11:00",
+   "films": 252
   },
   {
    "id": "orpheum",
@@ -95,17 +95,6 @@
    "group": "you can see everything"
   },
   {
-   "title": "Wicker",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wicker",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "wicker"
-  },
-  {
    "title": "Disney\u2019s Hexed",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
@@ -117,6 +106,17 @@
    "group": "disneys hexed"
   },
   {
+   "title": "Wicker",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/wicker",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "wicker"
+  },
+  {
    "title": "Wild Horse Nine",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/wild-horse-nine",
@@ -126,72 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "wild horse nine"
-  },
-  {
-   "title": "Bad Boy Bubby",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/bad-boy-bubby-1993",
-   "poster": "",
-   "rating": "",
-   "year": 1993,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "bad boy bubby"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/bad-boy-bubby-1993/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Citizen Kane",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/citizen-kane-1941",
-   "poster": "",
-   "rating": "",
-   "year": 1941,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "citizen kane"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/citizen-kane-1941/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Coco",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/coco-2017",
-   "poster": "",
-   "rating": "",
-   "year": 2017,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "coco"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/coco-2017/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Moulin Rouge!",
