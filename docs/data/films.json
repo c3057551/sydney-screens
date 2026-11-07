@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-07T09:39+11:00",
+ "generated_at": "2026-11-08T08:23+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-07T09:39+11:00",
-   "films": 252
+   "fetched_at": "2026-11-08T08:22+11:00",
+   "films": 250
   },
   {
    "id": "orpheum",
@@ -117,37 +117,15 @@
    "group": "wicker"
   },
   {
-   "title": "Wild Horse Nine",
+   "title": "Primetime",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wild-horse-nine",
+   "url": "https://www.ritzcinemas.com.au/movies/primetime",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "wild horse nine"
-  },
-  {
-   "title": "Moulin Rouge!",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/moulin-rouge-2001",
-   "poster": "",
-   "rating": "",
-   "year": 2001,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "moulin rouge"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/moulin-rouge-2001/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "primetime"
   },
   {
    "title": "Pickpockets",
