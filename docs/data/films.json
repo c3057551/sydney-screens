@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-08T08:23+11:00",
+ "generated_at": "2026-11-09T08:38+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-08T08:22+11:00",
-   "films": 250
+   "fetched_at": "2026-11-09T08:37+11:00",
+   "films": 248
   },
   {
    "id": "orpheum",
@@ -106,6 +106,17 @@
    "group": "disneys hexed"
   },
   {
+   "title": "JIFF: Just an Illusion",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jiff just an illusion"
+  },
+  {
    "title": "Wicker",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/wicker",
@@ -115,39 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "wicker"
-  },
-  {
-   "title": "Primetime",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/primetime",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "primetime"
-  },
-  {
-   "title": "Pickpockets",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/pickpockets",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "pickpockets"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/pickpockets/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Suddenly 30",
