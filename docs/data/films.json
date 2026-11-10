@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-09T08:38+11:00",
+ "generated_at": "2026-11-10T12:07+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-09T08:37+11:00",
-   "films": 248
+   "fetched_at": "2026-11-10T12:06+11:00",
+   "films": 244
   },
   {
    "id": "orpheum",
@@ -95,26 +95,15 @@
    "group": "you can see everything"
   },
   {
-   "title": "Disney\u2019s Hexed",
+   "title": "Wild Horse Nine",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
+   "url": "https://www.ritzcinemas.com.au/movies/wild-horse-nine",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "disneys hexed"
-  },
-  {
-   "title": "JIFF: Just an Illusion",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jiff just an illusion"
+   "group": "wild horse nine"
   },
   {
    "title": "Wicker",
@@ -128,26 +117,15 @@
    "group": "wicker"
   },
   {
-   "title": "Suddenly 30",
+   "title": "The Hunger Games: Sunrise on the Reaping",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/suddenly-30",
-   "poster": "",
-   "rating": "",
-   "year": 2004,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "suddenly 30"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/suddenly-30/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
+   "group": "the hunger games sunrise on the reaping"
   },
   {
    "title": "Fatherland",
@@ -351,28 +329,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/a-streetcar-named-desire-1951/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Festive Fun with Peppa",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/festive-fun-with-peppa",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "festive fun with peppa"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/festive-fun-with-peppa/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -667,17 +623,6 @@
    "group": "add reminder"
   },
   {
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the hunger games sunrise on the reaping"
-  },
-  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-hunger-games-sunrise-on-the-reaping/reminder.ics",
@@ -865,6 +810,17 @@
    "group": "add reminder"
   },
   {
+   "title": "Disney\u2019s Hexed",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "disneys hexed"
+  },
+  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/disneys-hexed/reminder.ics",
@@ -934,28 +890,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-fox/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Further Mis-Adventures of Cliff Booth",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-further-mis-adventures-of-cliff-booth",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the further mis adventures of cliff booth"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-further-mis-adventures-of-cliff-booth/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1440,6 +1374,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/shakespeare-in-love-1998/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Drax",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/drax",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "drax"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/drax/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
