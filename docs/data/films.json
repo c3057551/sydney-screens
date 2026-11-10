@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-10T12:07+11:00",
+ "generated_at": "2026-11-11T09:46+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-10T12:06+11:00",
-   "films": 244
+   "fetched_at": "2026-11-11T09:45+11:00",
+   "films": 253
   },
   {
    "id": "orpheum",
@@ -95,28 +95,6 @@
    "group": "you can see everything"
   },
   {
-   "title": "Wild Horse Nine",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wild-horse-nine",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "wild horse nine"
-  },
-  {
-   "title": "Wicker",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wicker",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "wicker"
-  },
-  {
    "title": "The Hunger Games: Sunrise on the Reaping",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
@@ -126,6 +104,28 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the hunger games sunrise on the reaping"
+  },
+  {
+   "title": "Disney\u2019s Hexed",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "disneys hexed"
+  },
+  {
+   "title": "Wild Horse Nine",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/wild-horse-nine",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "wild horse nine"
   },
   {
    "title": "Fatherland",
@@ -810,17 +810,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Disney\u2019s Hexed",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "disneys hexed"
-  },
-  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/disneys-hexed/reminder.ics",
@@ -1140,6 +1129,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Little Monsters 2",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/little-monsters-2",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "little monsters 2"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/little-monsters-2/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Maserati: The Brothers",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/maserati-the-brothers",
@@ -1396,6 +1407,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/drax/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Her Private Hell",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/her-private-hell",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "her private hell"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/her-private-hell/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1866,6 +1899,28 @@
    "group": "add reminder"
   },
   {
+   "title": "I Play Rocky",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/i-play-rocky",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "i play rocky"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/i-play-rocky/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Werwulf",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/werwulf",
@@ -1976,6 +2031,28 @@
    "group": "add reminder"
   },
   {
+   "title": "River",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/river",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "river"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/river/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "The Beekeeper 2",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-beekeeper-2",
@@ -2034,6 +2111,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/artificial/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Ice Age: Boiling Point",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/ice-age-boiling-point",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "ice age boiling point"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/ice-age-boiling-point/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2122,28 +2221,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/savage-house/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Ice Age: Boiling Point",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/ice-age-boiling-point",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "ice age boiling point"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/ice-age-boiling-point/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2386,6 +2463,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/k-pop-the-debut/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Mother's Pride",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/mothers-pride",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "mother s pride"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/mothers-pride/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
