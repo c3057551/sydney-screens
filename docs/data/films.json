@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-11T09:46+11:00",
+ "generated_at": "2026-11-12T10:59+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-11T09:45+11:00",
-   "films": 253
+   "fetched_at": "2026-11-12T10:58+11:00",
+   "films": 240
   },
   {
    "id": "orpheum",
@@ -117,17 +117,6 @@
    "group": "disneys hexed"
   },
   {
-   "title": "Wild Horse Nine",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/wild-horse-nine",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "wild horse nine"
-  },
-  {
    "title": "Fatherland",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/fatherland",
@@ -137,138 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "fatherland"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/fatherland/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "George Michael: The Faith Tour",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/george-michael-the-faith-tour",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "george michael the faith tour"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/george-michael-the-faith-tour/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "How to Rob a Bank",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/how-to-rob-a-bank",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "how to rob a bank"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/how-to-rob-a-bank/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "I Love Boosters",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/i-love-boosters",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "i love boosters"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/i-love-boosters/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Brood",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-brood-1979",
-   "poster": "",
-   "rating": "",
-   "year": 1979,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the brood"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-brood-1979/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Yellow Letters",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/yellow-letters",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "yellow letters"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/yellow-letters/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/you-can-see-everything/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "35mm Casablanca",
@@ -1143,28 +1000,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/little-monsters-2/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Maserati: The Brothers",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/maserati-the-brothers",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "maserati the brothers"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/maserati-the-brothers/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2133,6 +1968,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/ice-age-boiling-point/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Maserati: The Brothers",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/maserati-the-brothers",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "maserati the brothers"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/maserati-the-brothers/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
