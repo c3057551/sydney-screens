@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-12T10:59+11:00",
+ "generated_at": "2026-11-13T10:09+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-12T10:58+11:00",
-   "films": 240
+   "fetched_at": "2026-11-13T10:08+11:00",
+   "films": 242
   },
   {
    "id": "orpheum",
@@ -126,50 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "fatherland"
-  },
-  {
-   "title": "35mm Casablanca",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-casablanca-1942",
-   "poster": "",
-   "rating": "",
-   "year": 1942,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "casablanca"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-casablanca-1942/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "SHED",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/shed",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "shed"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/shed/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "A Streetcar Named Desire",
@@ -1580,6 +1536,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Kiss Kiss Bang Bang",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/kiss-kiss-bang-bang-2005",
+   "poster": "",
+   "rating": "",
+   "year": 2005,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "kiss kiss bang bang"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/kiss-kiss-bang-bang-2005/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Meet Me In St Louis",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/meet-me-in-st-louis-1944",
@@ -2240,6 +2218,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Bunker",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/bunker",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "bunker"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/bunker/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Josephine",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/josephine",
@@ -2342,6 +2342,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/mothers-pride/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Musk",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/musk",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "musk"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/musk/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
