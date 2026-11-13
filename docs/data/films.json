@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-13T10:09+11:00",
+ "generated_at": "2026-11-14T10:11+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-13T10:08+11:00",
-   "films": 242
+   "fetched_at": "2026-11-14T10:11+11:00",
+   "films": 234
   },
   {
    "id": "orpheum",
@@ -126,94 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "fatherland"
-  },
-  {
-   "title": "A Streetcar Named Desire",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/a-streetcar-named-desire-1951",
-   "poster": "",
-   "rating": "",
-   "year": 1951,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "a streetcar named desire"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/a-streetcar-named-desire-1951/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Met Opera: Macbeth",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/met-opera-macbeth",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "met opera macbeth"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-macbeth/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Mommie Dearest",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/mommie-dearest-1981",
-   "poster": "",
-   "rating": "",
-   "year": 1981,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "mommie dearest"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/mommie-dearest-1981/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Rugrats Movie",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-rugrats-movie-1998",
-   "poster": "",
-   "rating": "",
-   "year": 1998,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the rugrats movie"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-rugrats-movie-1998/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Saturday Night Fever",
