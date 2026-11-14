@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-14T10:11+11:00",
+ "generated_at": "2026-11-15T08:59+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-14T10:11+11:00",
-   "films": 234
+   "fetched_at": "2026-11-15T08:55+11:00",
+   "films": 230
   },
   {
    "id": "orpheum",
@@ -84,17 +84,6 @@
  ],
  "films": [
   {
-   "title": "You Can See Everything",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "you can see everything"
-  },
-  {
    "title": "The Hunger Games: Sunrise on the Reaping",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
@@ -117,59 +106,26 @@
    "group": "disneys hexed"
   },
   {
-   "title": "Fatherland",
+   "title": "You Can See Everything",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/fatherland",
+   "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "fatherland"
+   "group": "you can see everything"
   },
   {
-   "title": "Saturday Night Fever",
+   "title": "JIFF: Just an Illusion",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/saturday-night-fever-1977",
-   "poster": "",
-   "rating": "",
-   "year": 1977,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "saturday night fever"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/saturday-night-fever-1977/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Assassin",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-assassin-2015",
-   "poster": "",
-   "rating": "",
-   "year": 2015,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the assassin"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-assassin-2015/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "jiff just an illusion"
   },
   {
    "title": "JIFF: GIANT - The Play",
