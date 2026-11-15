@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T08:59+11:00",
+ "generated_at": "2026-11-16T09:26+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-15T08:55+11:00",
-   "films": 230
+   "fetched_at": "2026-11-16T09:25+11:00",
+   "films": 228
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "jiff just an illusion"
-  },
-  {
-   "title": "JIFF: GIANT - The Play",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jiff-giant---the-play",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jiff giant the play"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/jiff-giant---the-play/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "When Harry Met Sally",
