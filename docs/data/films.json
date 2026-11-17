@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-16T09:26+11:00",
+ "generated_at": "2026-11-17T12:29+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-16T09:25+11:00",
-   "films": 228
+   "fetched_at": "2026-11-17T12:29+11:00",
+   "films": 229
   },
   {
    "id": "orpheum",
@@ -84,6 +84,17 @@
  ],
  "films": [
   {
+   "title": "You Can See Everything",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "you can see everything"
+  },
+  {
    "title": "The Hunger Games: Sunrise on the Reaping",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
@@ -104,50 +115,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "disneys hexed"
-  },
-  {
-   "title": "You Can See Everything",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "you can see everything"
-  },
-  {
-   "title": "JIFF: Just an Illusion",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "jiff just an illusion"
-  },
-  {
-   "title": "When Harry Met Sally",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/when-harry-met-sally-1989",
-   "poster": "",
-   "rating": "",
-   "year": 1989,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "when harry met sally"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/when-harry-met-sally-1989/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Bad Apples",
@@ -439,6 +406,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/amelie-2001/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Buddy",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/buddy",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "buddy"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/buddy/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1448,28 +1437,6 @@
    "group": "add reminder"
   },
   {
-   "title": "A Talent for Murder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/a-talent-for-murder",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "a talent for murder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/a-talent-for-murder/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "Jumanji: Open World",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/jumanji-open-world",
@@ -1910,6 +1877,28 @@
    "group": "add reminder"
   },
   {
+   "title": "A Talent for Murder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/a-talent-for-murder",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "a talent for murder"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/a-talent-for-murder/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Remain",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/remain",
@@ -2108,6 +2097,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Star Wars (1977) 50th Anniversary",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/star-wars-1977-50th-anniversary",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "star wars 50th anniversary"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/star-wars-1977-50th-anniversary/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Wife and Dog",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/wife-and-dog",
@@ -2122,28 +2133,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/wife-and-dog/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "CoComelon: The Movie",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/cocomelon-the-movie",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "cocomelon the movie"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/cocomelon-the-movie/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2386,6 +2375,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/chili-finger/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "CoComelon: The Movie",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/cocomelon-the-movie",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "cocomelon the movie"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/cocomelon-the-movie/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
