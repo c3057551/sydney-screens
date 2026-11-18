@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-18T11:26+11:00",
+ "generated_at": "2026-11-19T10:50+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-18T11:26+11:00",
-   "films": 229
+   "fetched_at": "2026-11-19T10:50+11:00",
+   "films": 215
   },
   {
    "id": "orpheum",
@@ -84,28 +84,6 @@
  ],
  "films": [
   {
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the hunger games sunrise on the reaping"
-  },
-  {
-   "title": "You Can See Everything",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "you can see everything"
-  },
-  {
    "title": "Disney\u2019s Hexed",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
@@ -115,6 +93,17 @@
    "coming_soon": true,
    "sessions": [],
    "group": "disneys hexed"
+  },
+  {
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the hunger games sunrise on the reaping"
   },
   {
    "title": "Bad Apples",
@@ -128,158 +117,15 @@
    "group": "bad apples"
   },
   {
-   "title": "Add Reminder",
+   "title": "You Can See Everything",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/bad-apples/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Blue Heron",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/blue-heron",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "blue heron"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/blue-heron/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Chasing Millions",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/chasing-millions",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "chasing millions"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/chasing-millions/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Chopin",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/chopin",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "chopin"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/chopin/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "NT Live: Golden Boy",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/nt-live-golden-boy",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "nt live golden boy"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/nt-live-golden-boy/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Scanners",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/scanners-1981",
-   "poster": "",
-   "rating": "",
-   "year": 1981,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "scanners"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/scanners-1981/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-hunger-games-sunrise-on-the-reaping/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Zombucha!",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/zombucha",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "zombucha"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/zombucha/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "you can see everything"
   },
   {
    "title": "35mm Howl's Moving Castle",
