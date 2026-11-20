@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T11:14+11:00",
+ "generated_at": "2026-11-21T10:37+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-20T11:13+11:00",
-   "films": 217
+   "fetched_at": "2026-11-21T10:37+11:00",
+   "films": 211
   },
   {
    "id": "orpheum",
@@ -126,72 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "you can see everything"
-  },
-  {
-   "title": "Cars",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/cars-2006",
-   "poster": "",
-   "rating": "",
-   "year": 2006,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "cars"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/cars-2006/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Pulp Fiction",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/pulp-fiction-1994",
-   "poster": "",
-   "rating": "",
-   "year": 1994,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "pulp fiction"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/pulp-fiction-1994/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Night of the Hunter",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-night-of-the-hunter-1955",
-   "poster": "",
-   "rating": "",
-   "year": 1955,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the night of the hunter"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-night-of-the-hunter-1955/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "42nd Street",
