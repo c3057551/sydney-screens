@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-19T10:50+11:00",
+ "generated_at": "2026-11-20T11:14+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-19T10:50+11:00",
-   "films": 215
+   "fetched_at": "2026-11-20T11:13+11:00",
+   "films": 217
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "you can see everything"
-  },
-  {
-   "title": "35mm Howl's Moving Castle",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-howls-moving-castle-2004",
-   "poster": "",
-   "rating": "",
-   "year": 2004,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "howl s moving castle"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-howls-moving-castle-2004/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Cars",
@@ -1041,28 +1019,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Home Alone",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/home-alone-1990",
-   "poster": "",
-   "rating": "",
-   "year": 1990,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "home alone"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/home-alone-1990/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "The Muppet Christmas Carol",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-muppet-christmas-carol-1992",
@@ -1107,6 +1063,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Die Hard",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/die-hard-1988",
+   "poster": "",
+   "rating": "",
+   "year": 1988,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "die hard"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/die-hard-1988/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Avengers: Doomsday",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/avengers-doomsday",
@@ -1121,6 +1099,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/avengers-doomsday/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Carol",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/carol-2015",
+   "poster": "",
+   "rating": "",
+   "year": 2015,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "carol"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/carol-2015/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2331,6 +2331,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/met-opera-silent-night/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "All Down the Line",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/all-down-the-line-1989",
+   "poster": "",
+   "rating": "",
+   "year": 1989,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "all down the line"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/all-down-the-line-1989/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
