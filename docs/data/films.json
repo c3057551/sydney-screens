@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T10:37+11:00",
+ "generated_at": "2026-11-22T09:43+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-21T10:37+11:00",
-   "films": 211
+   "fetched_at": "2026-11-22T09:42+11:00",
+   "films": 209
   },
   {
    "id": "orpheum",
@@ -117,37 +117,15 @@
    "group": "bad apples"
   },
   {
-   "title": "You Can See Everything",
+   "title": "Steal This Story, Please!",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/you-can-see-everything",
+   "url": "https://www.ritzcinemas.com.au/movies/steal-this-story-please",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "you can see everything"
-  },
-  {
-   "title": "42nd Street",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/42nd-street-1933",
-   "poster": "",
-   "rating": "",
-   "year": 1933,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "42nd street"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/42nd-street-1933/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "steal this story please"
   },
   {
    "title": "Amelie",
