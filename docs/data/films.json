@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-22T09:43+11:00",
+ "generated_at": "2026-11-23T10:09+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-22T09:42+11:00",
+   "fetched_at": "2026-11-23T10:09+11:00",
    "films": 209
   },
   {
@@ -95,17 +95,6 @@
    "group": "disneys hexed"
   },
   {
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the hunger games sunrise on the reaping"
-  },
-  {
    "title": "Bad Apples",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/bad-apples",
@@ -117,15 +106,26 @@
    "group": "bad apples"
   },
   {
-   "title": "Steal This Story, Please!",
+   "title": "The Hunger Games: Sunrise on the Reaping",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/steal-this-story-please",
+   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "steal this story please"
+   "group": "the hunger games sunrise on the reaping"
+  },
+  {
+   "title": "JIFF: Just an Illusion",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "jiff just an illusion"
   },
   {
    "title": "Amelie",
