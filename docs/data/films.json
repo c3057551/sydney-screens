@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-23T10:09+11:00",
+ "generated_at": "2026-11-24T14:44+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-23T10:09+11:00",
+   "fetched_at": "2026-11-24T14:44+11:00",
    "films": 209
   },
   {
@@ -84,28 +84,6 @@
  ],
  "films": [
   {
-   "title": "Disney\u2019s Hexed",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "disneys hexed"
-  },
-  {
-   "title": "Bad Apples",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/bad-apples",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "bad apples"
-  },
-  {
    "title": "The Hunger Games: Sunrise on the Reaping",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
@@ -117,37 +95,37 @@
    "group": "the hunger games sunrise on the reaping"
   },
   {
-   "title": "JIFF: Just an Illusion",
+   "title": "Focker-in-Law",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/jiff-just-an-illusion",
+   "url": "https://www.ritzcinemas.com.au/movies/focker-in-law",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "jiff just an illusion"
+   "group": "focker in law"
   },
   {
-   "title": "Amelie",
+   "title": "Disney\u2019s Hexed",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/amelie-2001",
-   "poster": "",
-   "rating": "",
-   "year": 2001,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "amelie"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/amelie-2001/reminder.ics",
+   "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "add reminder"
+   "group": "disneys hexed"
+  },
+  {
+   "title": "The Fox",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-fox",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the fox"
   },
   {
    "title": "Buddy",
@@ -205,17 +183,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Focker-in-Law",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/focker-in-law",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "focker in law"
-  },
-  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/focker-in-law/reminder.ics",
@@ -249,17 +216,6 @@
    "group": "add reminder"
   },
   {
-   "title": "The Fox",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-fox",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the fox"
-  },
-  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-fox/reminder.ics",
@@ -285,28 +241,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-incomer/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Only Living Pickpocket in New York",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-only-living-pickpocket-in-new-york",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the only living pickpocket in new york"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-only-living-pickpocket-in-new-york/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -469,6 +403,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Above the Below",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/above-the-below",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "above the below"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/above-the-below/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Behemoth!",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/behemoth",
@@ -549,6 +505,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/the-dead-zone-1983/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "The Money Maker",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-money-maker",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the money maker"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-money-maker/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -799,28 +777,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Sunny Dancer",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/sunny-dancer",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "sunny dancer"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/sunny-dancer/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "The Fence",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/the-fence",
@@ -997,6 +953,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Dune: Part Three",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/dune-part-three",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "dune part three"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/dune-part-three/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Avengers: Doomsday",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/avengers-doomsday",
@@ -1055,28 +1033,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/dead-ringers-1988/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Dune: Part Three",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/dune-part-three",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "dune part three"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/dune-part-three/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1613,28 +1569,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Savage House",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/savage-house",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "savage house"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/savage-house/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
    "title": "A Talent for Murder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/a-talent-for-murder",
@@ -1671,6 +1605,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/remain/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Rose",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/rose",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "rose"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/rose/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1855,6 +1811,28 @@
    "group": "add reminder"
   },
   {
+   "title": "Savage House",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/savage-house",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "savage house"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/savage-house/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Star Wars (1977) 50th Anniversary",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/star-wars-1977-50th-anniversary",
@@ -1891,6 +1869,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/wife-and-dog/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "Guided by Horses",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/guided-by-horses",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "guided by horses"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/guided-by-horses/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
