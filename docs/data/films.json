@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-24T14:44+11:00",
+ "generated_at": "2026-11-25T12:52+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-24T14:44+11:00",
-   "films": 209
+   "fetched_at": "2026-11-25T12:51+11:00",
+   "films": 207
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the fox"
-  },
-  {
-   "title": "Buddy",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/buddy",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "buddy"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/buddy/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Bitter Christmas",
