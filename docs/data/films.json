@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T12:52+11:00",
+ "generated_at": "2026-11-26T12:29+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-25T12:51+11:00",
-   "films": 207
+   "fetched_at": "2026-11-26T12:29+11:00",
+   "films": 194
   },
   {
    "id": "orpheum",
@@ -84,15 +84,26 @@
  ],
  "films": [
   {
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "title": "Avengers: Doomsday",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
+   "url": "https://www.ritzcinemas.com.au/movies/avengers-doomsday",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the hunger games sunrise on the reaping"
+   "group": "avengers doomsday"
+  },
+  {
+   "title": "Dune: Part Three",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/dune-part-three",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "dune part three"
   },
   {
    "title": "Focker-in-Law",
@@ -106,147 +117,15 @@
    "group": "focker in law"
   },
   {
-   "title": "Disney\u2019s Hexed",
+   "title": "The Hunger Games: Sunrise on the Reaping",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/disneys-hexed",
+   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "disneys hexed"
-  },
-  {
-   "title": "The Fox",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-fox",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the fox"
-  },
-  {
-   "title": "Bitter Christmas",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/bitter-christmas",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "bitter christmas"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/bitter-christmas/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/disneys-hexed/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/focker-in-law/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "GIANT \u2013 The Play",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/giant-the-play",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "giant the play"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/giant-the-play/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-fox/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Incomer",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-incomer",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the incomer"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-incomer/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Videodrome",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/videodrome-1983",
-   "poster": "",
-   "rating": "",
-   "year": 1983,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "videodrome"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/videodrome-1983/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "the hunger games sunrise on the reaping"
   },
   {
    "title": "35mm Crouching Tiger, Hidden Dragon",
@@ -931,17 +810,6 @@
    "group": "add reminder"
   },
   {
-   "title": "Dune: Part Three",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/dune-part-three",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "dune part three"
-  },
-  {
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/dune-part-three/reminder.ics",
@@ -951,17 +819,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "add reminder"
-  },
-  {
-   "title": "Avengers: Doomsday",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/avengers-doomsday",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "avengers doomsday"
   },
   {
    "title": "Add Reminder",
