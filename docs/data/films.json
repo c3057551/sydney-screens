@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-26T12:29+11:00",
+ "generated_at": "2026-11-27T12:26+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-26T12:29+11:00",
-   "films": 194
+   "fetched_at": "2026-11-27T12:26+11:00",
+   "films": 196
   },
   {
    "id": "orpheum",
@@ -126,28 +126,6 @@
    "coming_soon": true,
    "sessions": [],
    "group": "the hunger games sunrise on the reaping"
-  },
-  {
-   "title": "35mm Crouching Tiger, Hidden Dragon",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/35mm-crouching-tiger-hidden-dragon-2000",
-   "poster": "",
-   "rating": "",
-   "year": 2000,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "crouching tiger hidden dragon"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/35mm-crouching-tiger-hidden-dragon-2000/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
   },
   {
    "title": "Funeral Parade of Roses",
@@ -1602,6 +1580,28 @@
    "group": "add reminder"
   },
   {
+   "title": "The Comeback King",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/the-comeback-king",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "the comeback king"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/the-comeback-king/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
    "title": "Bunker",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/movies/bunker",
@@ -1638,6 +1638,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/josephine/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "NT LIVE: The Motive and the Cue",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/nt-live-the-motive-and-the-cue",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "nt live the motive and the cue"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/nt-live-the-motive-and-the-cue/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -1726,28 +1748,6 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/guided-by-horses/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "K-POP: The Debut",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/k-pop-the-debut",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "k pop the debut"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/k-pop-the-debut/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
@@ -2034,6 +2034,28 @@
    "title": "Add Reminder",
    "cinema_id": "ritz",
    "url": "https://www.ritzcinemas.com.au/api/movies/de-gaulle-liberte/reminder.ics",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "add reminder"
+  },
+  {
+   "title": "K-POP: The Debut",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/movies/k-pop-the-debut",
+   "poster": "",
+   "rating": "",
+   "year": null,
+   "coming_soon": true,
+   "sessions": [],
+   "group": "k pop the debut"
+  },
+  {
+   "title": "Add Reminder",
+   "cinema_id": "ritz",
+   "url": "https://www.ritzcinemas.com.au/api/movies/k-pop-the-debut/reminder.ics",
    "poster": "",
    "rating": "",
    "year": null,
