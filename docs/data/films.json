@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-27T12:26+11:00",
+ "generated_at": "2026-11-28T12:00+11:00",
  "sources": [
   {
    "id": "ritz",
    "name": "Ritz Randwick",
    "short": "Ritz",
    "ok": true,
-   "fetched_at": "2026-11-27T12:26+11:00",
-   "films": 196
+   "fetched_at": "2026-11-28T11:59+11:00",
+   "films": 190
   },
   {
    "id": "orpheum",
@@ -117,81 +117,15 @@
    "group": "focker in law"
   },
   {
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "title": "The Fox",
    "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-hunger-games-sunrise-on-the-reaping",
+   "url": "https://www.ritzcinemas.com.au/movies/the-fox",
    "poster": "",
    "rating": "",
    "year": null,
    "coming_soon": true,
    "sessions": [],
-   "group": "the hunger games sunrise on the reaping"
-  },
-  {
-   "title": "Funeral Parade of Roses",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/funeral-parade-of-roses-1969",
-   "poster": "",
-   "rating": "",
-   "year": 1969,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "funeral parade of roses"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/funeral-parade-of-roses-1969/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "The Little Rascals",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/the-little-rascals-1994",
-   "poster": "",
-   "rating": "",
-   "year": 1994,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "the little rascals"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/the-little-rascals-1994/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
-  },
-  {
-   "title": "Who's Afraid of Virginia Woolf?",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/movies/whos-afraid-of-virginia-woolf-1966",
-   "poster": "",
-   "rating": "",
-   "year": 1966,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "who s afraid of virginia woolf"
-  },
-  {
-   "title": "Add Reminder",
-   "cinema_id": "ritz",
-   "url": "https://www.ritzcinemas.com.au/api/movies/whos-afraid-of-virginia-woolf-1966/reminder.ics",
-   "poster": "",
-   "rating": "",
-   "year": null,
-   "coming_soon": true,
-   "sessions": [],
-   "group": "add reminder"
+   "group": "the fox"
   },
   {
    "title": "Hamilton",
